@@ -260,7 +260,6 @@ namespace ShareX
         }
 
         public static string ImageEffectsFolder => Path.Combine(PersonalFolder, "ImageEffects");
-        public static string ModelsFolder => Path.Combine(PersonalFolder, "Models");
 
         private static string PersonalPathDetectionMethod;
 

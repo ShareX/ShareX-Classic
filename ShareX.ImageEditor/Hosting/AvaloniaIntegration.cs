@@ -105,22 +105,6 @@ namespace ShareX.ImageEditor.Hosting
             return ShowEditorDialog(null, options, events, taskMode, imageFilePath);
         }
 
-        public static void ShowBackgroundRemoverWindow(string? modelsFolder)
-        {
-            ShowBackgroundRemoverWindow(modelsFolder, new BackgroundRemoverOptions());
-        }
-
-        public static void ShowBackgroundRemoverWindow(string? modelsFolder, BackgroundRemoverOptions options)
-        {
-            Initialize();
-
-            Dispatcher.UIThread.Post(() =>
-            {
-                BackgroundRemoverWindow window = new BackgroundRemoverWindow(modelsFolder, options);
-                window.Show();
-            });
-        }
-
         public static SKBitmap? ShowEditorDialog(SKBitmap? imageBitmap, ImageEditorOptions options, EditorEvents? events = null,
             bool taskMode = false, string? imageFilePath = null)
         {
