@@ -44,7 +44,7 @@ namespace ShareX
             }
             else
             {
-                return new GitHubUpdateChecker("ShareX", "ShareX")
+                return new GitHubUpdateChecker("ShareX", "ShareX-Classic")
                 {
                     IsPortable = Program.Portable,
                     IncludePreRelease = UpdateChannel == UpdateChannel.PreRelease,
