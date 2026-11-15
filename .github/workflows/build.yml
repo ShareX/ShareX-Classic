@@ -39,6 +39,7 @@ jobs:
     env:
       SOLUTION_FILE_PATH: ShareX.sln
       ASSEMBLY_INFO_PATH: Directory.build.props
+      FFMPEG_VERSION: "9.0"
 
     outputs:
       APP_VERSION: ${{ env.APP_VERSION }}
@@ -90,6 +91,21 @@ jobs:
 
       - name: Build
         run: dotnet build --no-restore --configuration "${{ matrix.configuration }}" -p:Platform="${{ matrix.platform }}" --self-contained true /m:1 "${{ env.SOLUTION_FILE_PATH }}"
+
+      - name: Download FFmpeg
+        run: |
+          $archivePath = Join-Path $env:RUNNER_TEMP "ffmpeg.zip"
+          $extractPath = Join-Path $env:RUNNER_TEMP "ffmpeg"
+          $ffmpegPlatform = if ("${{ matrix.platform }}" -eq "ARM64") { "winarm64" } else { "win64" }
+          $downloadUrl = "https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-n${{ env.FFMPEG_VERSION }}-latest-$ffmpegPlatform-gpl-${{ env.FFMPEG_VERSION }}.zip"
+          Invoke-WebRequest -Uri $downloadUrl -OutFile $archivePath
+          Expand-Archive -Path $archivePath -DestinationPath $extractPath -Force
+          $ffmpegPath = Get-ChildItem -Path $extractPath -Filter "ffmpeg.exe" -Recurse -File | Select-Object -First 1
+          if ($null -eq $ffmpegPath) {
+            throw "ffmpeg.exe was not found in the downloaded archive."
+          }
+          $destinationPath = "${{ github.workspace }}\ShareX\bin\${{ matrix.configuration }}\${{ env.RUNTIME_ID }}\ffmpeg.exe"
+          Copy-Item -LiteralPath $ffmpegPath.FullName -Destination $destinationPath -Force
 
       - name: Build Setup (x64)
         if: matrix.platform == 'ARM64'
