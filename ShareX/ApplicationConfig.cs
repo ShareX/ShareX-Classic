@@ -41,7 +41,7 @@ namespace ShareX
         public DateTime FirstTimeRunDate = DateTime.Now;
         public string FileUploadDefaultDirectory = "";
         public int NameParserAutoIncrementNumber = 0;
-        public List<QuickTaskInfo> QuickTaskPresets = QuickTaskInfo.DefaultPresets;
+        public List<QuickTaskInfo> QuickTaskPresets = QuickTaskInfo.GetDefaultPresets();
 
         // Main window
         public bool FirstTimeMinimizeToTray = true;

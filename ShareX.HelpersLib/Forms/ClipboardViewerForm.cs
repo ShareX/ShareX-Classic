@@ -86,7 +86,7 @@ namespace ShareX.HelpersLib
 
                 if (CurrentDataObject != null)
                 {
-                    object data = CurrentDataObject.GetData(format);
+                    object data = GetClipboardData(CurrentDataObject, format);
 
                     if (data != null)
                     {
@@ -132,6 +132,30 @@ namespace ShareX.HelpersLib
                         }
                     }
                 }
+            }
+        }
+
+        // TryGetData<object> isn't supported for most formats, so try each type the viewer can show.
+        private static object GetClipboardData(DataObject dataObject, string format)
+        {
+            if (TryGetClipboardData(dataObject, format, out MemoryStream ms)) return ms;
+            if (TryGetClipboardData(dataObject, format, out Bitmap bmp)) return bmp;
+            if (TryGetClipboardData(dataObject, format, out string text)) return text;
+            if (TryGetClipboardData(dataObject, format, out string[] lines)) return lines;
+            return null;
+        }
+
+        private static bool TryGetClipboardData<T>(DataObject dataObject, string format, out T data)
+        {
+            try
+            {
+                return dataObject.TryGetData(format, out data);
+            }
+            catch (NotSupportedException)
+            {
+                // Thrown when the format can't be read as this type.
+                data = default;
+                return false;
             }
         }
 

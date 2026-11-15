@@ -89,7 +89,7 @@ namespace ShareX
         private void btnReset_Click(object sender, EventArgs e)
         {
             ServiceLinks.Clear();
-            ServiceLinks.AddRange(OCROptions.DefaultServiceLinks);
+            ServiceLinks.AddRange(OCROptions.GetDefaultServiceLinks());
 
             cbServices.Items.Clear();
             cbServices.Items.AddRange(ServiceLinks.ToArray());

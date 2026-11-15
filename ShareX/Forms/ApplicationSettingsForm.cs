@@ -521,7 +521,7 @@ namespace ShareX
 
         private void BtnThemeAdd_Click(object sender, EventArgs e)
         {
-            AddTheme(ShareXTheme.DarkTheme);
+            AddTheme(ShareXTheme.GetDarkTheme());
         }
 
         private void BtnThemeRemove_Click(object sender, EventArgs e)

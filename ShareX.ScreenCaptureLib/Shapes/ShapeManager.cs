@@ -1376,7 +1376,7 @@ namespace ShareX.ScreenCaptureLib
 
                 if (windowInfo != null)
                 {
-                    return windowInfo.WindowInfo;
+                    return windowInfo.GetWindowInfo();
                 }
             }
 

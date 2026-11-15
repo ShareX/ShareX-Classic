@@ -123,7 +123,7 @@ namespace ShareX
         {
             if (MessageBox.Show(Resources.QuickTaskMenuEditorForm_Reset_all_quick_tasks_to_defaults_Confirmation, "ShareX", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
-                Program.Settings.QuickTaskPresets = QuickTaskInfo.DefaultPresets;
+                Program.Settings.QuickTaskPresets = QuickTaskInfo.GetDefaultPresets();
                 UpdateItems();
             }
         }
