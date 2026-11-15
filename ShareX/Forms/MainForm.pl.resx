@@ -735,9 +735,6 @@
   <data name="tsmiTrayImageBeautifier.Text" xml:space="preserve">
     <value>Upiększacz obrazu...</value>
   </data>
-  <data name="tsmiImageComparer.Text" xml:space="preserve">
-    <value>Porównywarka obrazów...</value>
-  </data>
   <data name="tsmiAI.Text" xml:space="preserve">
     <value>Analizuj obraz...</value>
   </data>
@@ -761,9 +758,6 @@
   </data>
   <data name="tsmiGoogleLens.Text" xml:space="preserve">
     <value>Google Lens...</value>
-  </data>
-  <data name="tsmiTrayImageComparer.Text" xml:space="preserve">
-    <value>Porównywarka obrazów...</value>
   </data>
   <data name="tsmiTrayAI.Text" xml:space="preserve">
     <value>Analizuj obraz...</value>

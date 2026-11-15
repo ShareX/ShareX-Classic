@@ -762,9 +762,6 @@
   <data name="tsmiBeautifyImage.Text" xml:space="preserve">
     <value>Resmi güzelleştir...</value>
   </data>
-  <data name="tsmiImageComparer.Text" xml:space="preserve">
-    <value>Görüntü karşılaştırıcı...</value>
-  </data>
   <data name="tsmiAI.Text" xml:space="preserve">
     <value>Görüntüyü analiz et...</value>
   </data>
@@ -773,9 +770,6 @@
   </data>
   <data name="tsmiGoogleLens.Text" xml:space="preserve">
     <value>Google Lens...</value>
-  </data>
-  <data name="tsmiTrayImageComparer.Text" xml:space="preserve">
-    <value>Görüntü karşılaştırıcı...</value>
   </data>
   <data name="tsmiTrayAI.Text" xml:space="preserve">
     <value>Görüntüyü analiz et...</value>

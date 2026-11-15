@@ -672,9 +672,6 @@
   <data name="tsmiPinToScreen.Text" xml:space="preserve">
     <value>화면에 고정...</value>
   </data>
-  <data name="tsmiImageComparer.Text" xml:space="preserve">
-    <value>이미지 비교기...</value>
-  </data>
   <data name="tsmiImageBeautifier.Text" xml:space="preserve">
     <value>이미지 꾸미기...</value>
   </data>
@@ -740,9 +737,6 @@
   </data>
   <data name="tsmiTrayPinToScreen.Text" xml:space="preserve">
     <value>화면에 고정...</value>
-  </data>
-  <data name="tsmiTrayImageComparer.Text" xml:space="preserve">
-    <value>이미지 비교기...</value>
   </data>
   <data name="tsmiTrayImageBeautifier.Text" xml:space="preserve">
     <value>이미지 꾸미기...</value>

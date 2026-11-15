@@ -627,9 +627,6 @@
   <data name="tsmiPinToScreen.Text" xml:space="preserve">
     <value>Fissa allo schermo...</value>
   </data>
-  <data name="tsmiImageComparer.Text" xml:space="preserve">
-    <value>Confronto immagini...</value>
-  </data>
   <data name="tsmiImageBeautifier.Text" xml:space="preserve">
     <value>Abbellimento immagine...</value>
   </data>
@@ -731,9 +728,6 @@
   </data>
   <data name="tsmiTrayPinToScreen.Text" xml:space="preserve">
     <value>Fissa allo schermo...</value>
-  </data>
-  <data name="tsmiTrayImageComparer.Text" xml:space="preserve">
-    <value>Confronto immagini...</value>
   </data>
   <data name="tsmiTrayImageBeautifier.Text" xml:space="preserve">
     <value>Abbellimento immagine...</value>

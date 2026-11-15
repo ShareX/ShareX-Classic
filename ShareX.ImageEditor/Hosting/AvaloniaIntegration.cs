@@ -105,17 +105,6 @@ namespace ShareX.ImageEditor.Hosting
             return ShowEditorDialog(null, options, events, taskMode, imageFilePath);
         }
 
-        public static void ShowImageComparerWindow()
-        {
-            Initialize();
-
-            Dispatcher.UIThread.Post(() =>
-            {
-                ImageComparerWindow window = new ImageComparerWindow();
-                window.Show();
-            });
-        }
-
         public static void ShowBackgroundRemoverWindow(string? modelsFolder)
         {
             ShowBackgroundRemoverWindow(modelsFolder, new BackgroundRemoverOptions());

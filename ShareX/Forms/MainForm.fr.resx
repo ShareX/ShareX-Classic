@@ -744,9 +744,6 @@
   <data name="cDescription.HeaderText" xml:space="preserve">
     <value>Description</value>
   </data>
-  <data name="tsmiImageComparer.Text" xml:space="preserve">
-    <value>Comparateur d’images...</value>
-  </data>
   <data name="tsmiAI.Text" xml:space="preserve">
     <value>Analyser l’image...</value>
   </data>
@@ -767,9 +764,6 @@
   </data>
   <data name="tsmiGoogleLens.Text" xml:space="preserve">
     <value>Google Lens...</value>
-  </data>
-  <data name="tsmiTrayImageComparer.Text" xml:space="preserve">
-    <value>Comparateur d’images...</value>
   </data>
   <data name="tsmiTrayAI.Text" xml:space="preserve">
     <value>Analyser l’image...</value>

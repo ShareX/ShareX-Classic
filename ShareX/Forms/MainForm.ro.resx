@@ -720,9 +720,6 @@
   <data name="tsmiPinToScreen.Text" xml:space="preserve">
     <value>Fixează pe ecran...</value>
   </data>
-  <data name="tsmiImageComparer.Text" xml:space="preserve">
-    <value>Comparator de imagini...</value>
-  </data>
   <data name="tsmiImageBeautifier.Text" xml:space="preserve">
     <value>Îmbunătățitor de imagini...</value>
   </data>
@@ -758,9 +755,6 @@
   </data>
   <data name="tsmiTrayPinToScreen.Text" xml:space="preserve">
     <value>Fixează pe ecran...</value>
-  </data>
-  <data name="tsmiTrayImageComparer.Text" xml:space="preserve">
-    <value>Comparator de imagini...</value>
   </data>
   <data name="tsmiTrayImageBeautifier.Text" xml:space="preserve">
     <value>Îmbunătățitor de imagini...</value>

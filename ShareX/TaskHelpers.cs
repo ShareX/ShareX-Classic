@@ -267,9 +267,6 @@ namespace ShareX
                 case HotkeyType.BackgroundRemover:
                     OpenBackgroundRemover(safeTaskSettings);
                     break;
-                case HotkeyType.ImageComparer:
-                    OpenImageComparer();
-                    break;
                 case HotkeyType.ImageCombiner:
                     OpenImageCombiner(null, safeTaskSettings);
                     break;
@@ -1009,11 +1006,6 @@ namespace ShareX
             ImageCombinerForm imageCombinerForm = new ImageCombinerForm(taskSettings.ToolsSettingsReference.ImageCombinerOptions, imageFiles);
             imageCombinerForm.ProcessRequested += bmp => UploadManager.RunImageTask(bmp, taskSettings);
             imageCombinerForm.Show();
-        }
-
-        public static void OpenImageComparer()
-        {
-            AvaloniaIntegration.ShowImageComparerWindow();
         }
 
         public static void OpenBackgroundRemover(TaskSettings taskSettings = null)
@@ -2181,7 +2173,6 @@ namespace ShareX
                     case HotkeyType.ImageEffects: return Resources.image_reflection;
                     case HotkeyType.ImageViewer: return Resources.images_flickr;
                     case HotkeyType.BackgroundRemover: return Resources.wand_magic;
-                    case HotkeyType.ImageComparer: return Resources.image_saturation;
                     case HotkeyType.ImageCombiner: return Resources.document_break;
                     case HotkeyType.ImageSplitter: return Resources.image_split;
                     case HotkeyType.ImageThumbnailer: return Resources.image_resize_actual;

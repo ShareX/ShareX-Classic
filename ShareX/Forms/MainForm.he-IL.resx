@@ -750,9 +750,6 @@
   <data name="cDescription.HeaderText" xml:space="preserve">
     <value>תיאור</value>
   </data>
-  <data name="tsmiImageComparer.Text" xml:space="preserve">
-    <value>משווה תמונות...</value>
-  </data>
   <data name="tsmiAI.Text" xml:space="preserve">
     <value>נתח תמונה...</value>
   </data>
@@ -770,9 +767,6 @@
   </data>
   <data name="tsmiGoogleLens.Text" xml:space="preserve">
     <value>Google Lens...</value>
-  </data>
-  <data name="tsmiTrayImageComparer.Text" xml:space="preserve">
-    <value>משווה תמונות...</value>
   </data>
   <data name="tsmiTrayAI.Text" xml:space="preserve">
     <value>נתח תמונה...</value>

@@ -630,9 +630,6 @@
   <data name="tsmiPinToScreen.Text" xml:space="preserve">
     <value>Sematkan ke layar...</value>
   </data>
-  <data name="tsmiImageComparer.Text" xml:space="preserve">
-    <value>Pembanding gambar...</value>
-  </data>
   <data name="tsmiImageBeautifier.Text" xml:space="preserve">
     <value>Pemercantik gambar...</value>
   </data>
@@ -731,9 +728,6 @@
   </data>
   <data name="tsmiTrayPinToScreen.Text" xml:space="preserve">
     <value>Sematkan ke layar...</value>
-  </data>
-  <data name="tsmiTrayImageComparer.Text" xml:space="preserve">
-    <value>Pembanding gambar...</value>
   </data>
   <data name="tsmiTrayImageBeautifier.Text" xml:space="preserve">
     <value>Pemercantik gambar...</value>

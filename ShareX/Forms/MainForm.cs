@@ -1757,11 +1757,6 @@ namespace ShareX
             TaskHelpers.OpenBackgroundRemover();
         }
 
-        private void tsmiImageComparer_Click(object sender, EventArgs e)
-        {
-            TaskHelpers.OpenImageComparer();
-        }
-
         private void tsmiImageCombiner_Click(object sender, EventArgs e)
         {
             TaskHelpers.OpenImageCombiner();

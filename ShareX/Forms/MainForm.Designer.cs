@@ -85,7 +85,6 @@
             tsmiImageEffects = new System.Windows.Forms.ToolStripMenuItem();
             tsmiImageViewer = new System.Windows.Forms.ToolStripMenuItem();
             tsmiBackgroundRemover = new System.Windows.Forms.ToolStripMenuItem();
-            tsmiImageComparer = new System.Windows.Forms.ToolStripMenuItem();
             tsmiImageCombiner = new System.Windows.Forms.ToolStripMenuItem();
             tsmiImageSplitter = new System.Windows.Forms.ToolStripMenuItem();
             tsmiImageThumbnailer = new System.Windows.Forms.ToolStripMenuItem();
@@ -243,7 +242,6 @@
             tsmiTrayImageEffects = new System.Windows.Forms.ToolStripMenuItem();
             tsmiTrayImageViewer = new System.Windows.Forms.ToolStripMenuItem();
             tsmiTrayBackgroundRemover = new System.Windows.Forms.ToolStripMenuItem();
-            tsmiTrayImageComparer = new System.Windows.Forms.ToolStripMenuItem();
             tsmiTrayImageCombiner = new System.Windows.Forms.ToolStripMenuItem();
             tsmiTrayImageSplitter = new System.Windows.Forms.ToolStripMenuItem();
             tsmiTrayImageThumbnailer = new System.Windows.Forms.ToolStripMenuItem();
@@ -602,7 +600,7 @@
             // 
             // tsddbTools
             // 
-            tsddbTools.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] { tsmiColorPicker, tsmiScreenColorPicker, tsmiRuler, tsmiPinToScreen, tssTools1, tsmiImageEditor, tsmiImageBeautifier, tsmiImageEffects, tsmiImageViewer, tsmiBackgroundRemover, tsmiImageComparer, tsmiImageCombiner, tsmiImageSplitter, tsmiImageThumbnailer, tssTools2, tsmiVideoConverter, tsmiVideoThumbnailer, tssTools3, tsmiAI, tsmiOCR, tsmiQRCode, tsmiHashChecker, tsmiMetadata, tsmiIndexFolder, tssTools4, tsmiClipboardViewer, tsmiBorderlessWindow, tsmiInspectWindow, tsmiMonitorTest });
+            tsddbTools.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] { tsmiColorPicker, tsmiScreenColorPicker, tsmiRuler, tsmiPinToScreen, tssTools1, tsmiImageEditor, tsmiImageBeautifier, tsmiImageEffects, tsmiImageViewer, tsmiBackgroundRemover, tsmiImageCombiner, tsmiImageSplitter, tsmiImageThumbnailer, tssTools2, tsmiVideoConverter, tsmiVideoThumbnailer, tssTools3, tsmiAI, tsmiOCR, tsmiQRCode, tsmiHashChecker, tsmiMetadata, tsmiIndexFolder, tssTools4, tsmiClipboardViewer, tsmiBorderlessWindow, tsmiInspectWindow, tsmiMonitorTest });
             tsddbTools.Image = Properties.Resources.toolbox;
             resources.ApplyResources(tsddbTools, "tsddbTools");
             tsddbTools.Name = "tsddbTools";
@@ -674,13 +672,6 @@
             tsmiBackgroundRemover.Name = "tsmiBackgroundRemover";
             resources.ApplyResources(tsmiBackgroundRemover, "tsmiBackgroundRemover");
             tsmiBackgroundRemover.Click += tsmiBackgroundRemover_Click;
-            // 
-            // tsmiImageComparer
-            // 
-            tsmiImageComparer.Image = Properties.Resources.image_saturation;
-            tsmiImageComparer.Name = "tsmiImageComparer";
-            resources.ApplyResources(tsmiImageComparer, "tsmiImageComparer");
-            tsmiImageComparer.Click += tsmiImageComparer_Click;
             // 
             // tsmiImageCombiner
             // 
@@ -1633,7 +1624,7 @@
             // 
             // tsmiTrayTools
             // 
-            tsmiTrayTools.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] { tsmiTrayColorPicker, tsmiTrayScreenColorPicker, tsmiTrayRuler, tsmiTrayPinToScreen, tssTrayTools1, tsmiTrayImageEditor, tsmiTrayImageBeautifier, tsmiTrayImageEffects, tsmiTrayImageViewer, tsmiTrayBackgroundRemover, tsmiTrayImageComparer, tsmiTrayImageCombiner, tsmiTrayImageSplitter, tsmiTrayImageThumbnailer, tssTrayTools2, tsmiTrayVideoConverter, tsmiTrayVideoThumbnailer, tssTrayTools3, tsmiTrayAI, tsmiTrayOCR, tsmiTrayQRCode, tsmiTrayHashChecker, tsmiTrayMetadata, tsmiTrayIndexFolder, tssTrayTools4, tsmiTrayClipboardViewer, tsmiTrayBorderlessWindow, tsmiTrayInspectWindow, tsmiTrayMonitorTest });
+            tsmiTrayTools.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] { tsmiTrayColorPicker, tsmiTrayScreenColorPicker, tsmiTrayRuler, tsmiTrayPinToScreen, tssTrayTools1, tsmiTrayImageEditor, tsmiTrayImageBeautifier, tsmiTrayImageEffects, tsmiTrayImageViewer, tsmiTrayBackgroundRemover, tsmiTrayImageCombiner, tsmiTrayImageSplitter, tsmiTrayImageThumbnailer, tssTrayTools2, tsmiTrayVideoConverter, tsmiTrayVideoThumbnailer, tssTrayTools3, tsmiTrayAI, tsmiTrayOCR, tsmiTrayQRCode, tsmiTrayHashChecker, tsmiTrayMetadata, tsmiTrayIndexFolder, tssTrayTools4, tsmiTrayClipboardViewer, tsmiTrayBorderlessWindow, tsmiTrayInspectWindow, tsmiTrayMonitorTest });
             tsmiTrayTools.Image = Properties.Resources.toolbox;
             tsmiTrayTools.Name = "tsmiTrayTools";
             resources.ApplyResources(tsmiTrayTools, "tsmiTrayTools");
@@ -1705,13 +1696,6 @@
             tsmiTrayBackgroundRemover.Name = "tsmiTrayBackgroundRemover";
             resources.ApplyResources(tsmiTrayBackgroundRemover, "tsmiTrayBackgroundRemover");
             tsmiTrayBackgroundRemover.Click += tsmiBackgroundRemover_Click;
-            // 
-            // tsmiTrayImageComparer
-            // 
-            tsmiTrayImageComparer.Image = Properties.Resources.image_saturation;
-            tsmiTrayImageComparer.Name = "tsmiTrayImageComparer";
-            resources.ApplyResources(tsmiTrayImageComparer, "tsmiTrayImageComparer");
-            tsmiTrayImageComparer.Click += tsmiImageComparer_Click;
             // 
             // tsmiTrayImageCombiner
             // 
@@ -2274,8 +2258,6 @@
         private System.Windows.Forms.ToolStripMenuItem tsmiTrayImageEditor;
         private System.Windows.Forms.ToolStripMenuItem tsmiBackgroundRemover;
         private System.Windows.Forms.ToolStripMenuItem tsmiTrayBackgroundRemover;
-        private System.Windows.Forms.ToolStripMenuItem tsmiImageComparer;
-        private System.Windows.Forms.ToolStripMenuItem tsmiTrayImageComparer;
         private System.Windows.Forms.ToolStripDropDownButton tsddbWorkflows;
         private System.Windows.Forms.ToolStripMenuItem tsmiTrayWorkflows;
         private System.Windows.Forms.ToolStripMenuItem tsmiShowQRCode;

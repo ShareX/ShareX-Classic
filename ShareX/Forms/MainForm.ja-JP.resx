@@ -741,9 +741,6 @@
   <data name="tsmiTrayImageBeautifier.Text" xml:space="preserve">
     <value>画像装飾...</value>
   </data>
-  <data name="tsmiImageComparer.Text" xml:space="preserve">
-    <value>画像比較...</value>
-  </data>
   <data name="tsmiAI.Text" xml:space="preserve">
     <value>画像を解析...</value>
   </data>
@@ -767,9 +764,6 @@
   </data>
   <data name="tsmiGoogleLens.Text" xml:space="preserve">
     <value>Google Lens...</value>
-  </data>
-  <data name="tsmiTrayImageComparer.Text" xml:space="preserve">
-    <value>画像比較...</value>
   </data>
   <data name="tsmiTrayAI.Text" xml:space="preserve">
     <value>画像を解析...</value>

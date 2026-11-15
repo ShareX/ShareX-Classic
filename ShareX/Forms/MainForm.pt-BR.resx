@@ -717,9 +717,6 @@
   <data name="tsmiTrayVideoConverter.Text" xml:space="preserve">
     <value>Conversor de vídeo...</value>
   </data>
-  <data name="tsmiImageComparer.Text" xml:space="preserve">
-    <value>Comparador de imagens...</value>
-  </data>
   <data name="tsmiImageBeautifier.Text" xml:space="preserve">
     <value>Imagem beautifier...</value>
   </data>
@@ -758,9 +755,6 @@
   </data>
   <data name="tsmiGoogleLens.Text" xml:space="preserve">
     <value>Google Lens...</value>
-  </data>
-  <data name="tsmiTrayImageComparer.Text" xml:space="preserve">
-    <value>Comparador de imagens...</value>
   </data>
   <data name="tsmiTrayImageBeautifier.Text" xml:space="preserve">
     <value>Imagem beautifier...</value>

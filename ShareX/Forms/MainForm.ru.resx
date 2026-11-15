@@ -762,9 +762,6 @@
   <data name="tsmiTrayMetadata.Text" xml:space="preserve">
     <value>Метаданные...</value>
   </data>
-  <data name="tsmiImageComparer.Text" xml:space="preserve">
-    <value>Сравнение изображений...</value>
-  </data>
   <data name="tsmiAI.Text" xml:space="preserve">
     <value>Анализировать изображение...</value>
   </data>
@@ -773,9 +770,6 @@
   </data>
   <data name="tsmiGoogleLens.Text" xml:space="preserve">
     <value>Google Lens...</value>
-  </data>
-  <data name="tsmiTrayImageComparer.Text" xml:space="preserve">
-    <value>Сравнение изображений...</value>
   </data>
   <data name="tsmiTrayAI.Text" xml:space="preserve">
     <value>Анализировать изображение...</value>

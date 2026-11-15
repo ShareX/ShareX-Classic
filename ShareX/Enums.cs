@@ -286,8 +286,6 @@ namespace ShareX
         [Category(EnumExtensions.HotkeyType_Category_Tools)]
         BackgroundRemover,
         [Category(EnumExtensions.HotkeyType_Category_Tools)]
-        ImageComparer,
-        [Category(EnumExtensions.HotkeyType_Category_Tools)]
         ImageCombiner,
         [Category(EnumExtensions.HotkeyType_Category_Tools)]
         ImageSplitter,

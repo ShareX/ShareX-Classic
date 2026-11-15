@@ -738,9 +738,6 @@
   <data name="tsmiPinToScreen.Text" xml:space="preserve">
     <value>Fijar a pantalla...</value>
   </data>
-  <data name="tsmiImageComparer.Text" xml:space="preserve">
-    <value>Comparador de imágenes...</value>
-  </data>
   <data name="tsmiAI.Text" xml:space="preserve">
     <value>Analizar imagen...</value>
   </data>
@@ -764,9 +761,6 @@
   </data>
   <data name="tsmiGoogleLens.Text" xml:space="preserve">
     <value>Google Lens...</value>
-  </data>
-  <data name="tsmiTrayImageComparer.Text" xml:space="preserve">
-    <value>Comparador de imágenes...</value>
   </data>
   <data name="tsmiTrayAI.Text" xml:space="preserve">
     <value>Analizar imagen...</value>
