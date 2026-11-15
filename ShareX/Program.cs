@@ -46,11 +46,11 @@ namespace ShareX
 {
     internal static class Program
     {
-        public const string AppName = "ShareX";
-        public const string MutexName = "82E6AC09-0FEF-4390-AD9F-0DD3F5561EFC";
-        public static readonly string PipeName = $"{Environment.MachineName}-{Environment.UserName}-{AppName}";
+        internal const string AppName = "ShareX";
+        internal const string MutexName = "82E6AC09-0FEF-4390-AD9F-0DD3F5561EFC";
+        internal static readonly string PipeName = $"{Environment.MachineName}-{Environment.UserName}-{AppName}";
 
-        public const ShareXBuild Build =
+        internal const ShareXBuild Build =
 #if RELEASE
             ShareXBuild.Release;
 #elif STEAM
@@ -62,6 +62,8 @@ namespace ShareX
 #else
             ShareXBuild.Unknown;
 #endif
+
+        internal const bool Dev = true;
 
         public static string VersionText
         {
@@ -113,7 +115,6 @@ namespace ShareX
             }
         }
 
-        public static bool Dev { get; } = true;
         public static bool MultiInstance { get; private set; }
         public static bool Portable { get; private set; }
         public static bool SilentRun { get; private set; }

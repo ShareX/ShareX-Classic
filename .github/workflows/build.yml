@@ -78,11 +78,11 @@ jobs:
         run: |
           $path = "ShareX\Program.cs"
           $content = [System.IO.File]::ReadAllText($path)
-          $pattern = 'public static bool Dev \{ get; \} = (true|false);'
+          $pattern = 'internal const bool Dev = (true|false);'
           if (-not [regex]::IsMatch($content, $pattern)) {
             throw "Dev flag was not found in $path."
           }
-          $content = [regex]::Replace($content, $pattern, 'public static bool Dev { get; } = false;')
+          $content = [regex]::Replace($content, $pattern, 'internal const bool Dev = false;')
           [System.IO.File]::WriteAllText($path, $content, [System.Text.UTF8Encoding]::new($false))
 
       - name: Create API keys file
