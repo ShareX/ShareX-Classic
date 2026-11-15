@@ -126,14 +126,8 @@
   <data name="ClipboardFormatForm_ClipboardFormatForm_Supported_variables___0__and_other_variables_such_as__1__etc_" xml:space="preserve">
     <value>Variabile acceptate: {0} și alte variabile, cum ar fi {1} etc.</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_zh_CH" xml:space="preserve">
-    <value>Chineză simplificată</value>
-  </data>
   <data name="ActionsForm_btnOK_Click_File_path_can_t_be_empty_" xml:space="preserve">
     <value>Calea fișierului nu poate fi goală.</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_pt_PT" xml:space="preserve">
-    <value>Portugheză</value>
   </data>
   <data name="UploadManager_IsUploadConfirmed_Upload_files" xml:space="preserve">
     <value>Încărcați fișierele</value>
@@ -173,14 +167,8 @@
 
 Doriți să reporniți ShareX?</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
-    <value>Chineză tradițională</value>
-  </data>
   <data name="MainForm_UploadDebugLogWarning" xml:space="preserve">
     <value>Jurnalul de depanării poate conține informații cu caracter personal. Sunteți sigur că doriți să continuați?</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_id_ID" xml:space="preserve">
-    <value>Indoneziană</value>
   </data>
   <data name="AboutForm_AboutForm_Credits" xml:space="preserve">
     <value>Mulțumiri</value>
@@ -230,9 +218,6 @@ Apăsați "Nu" pentru a anula încărcarea și pentru a dezactiva încărcarea a
   </data>
   <data name="ActionsToolbar__LockPosition" xml:space="preserve">
     <value>Blocați poziția</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_nl_NL" xml:space="preserve">
-    <value>Olandeză</value>
   </data>
   <data name="UploadTask_CreateShareURLTask_Share_URL___0__" xml:space="preserve">
     <value>URL de distribuire ({0})</value>
@@ -289,17 +274,11 @@ Sunteți sigur că doriți să continuați?</value>
   <data name="UploadManager_IsUploadConfirmed_Are_you_sure_you_want_to_upload__0__files_" xml:space="preserve">
     <value>Sunteți sigur că doriți să încărcați {0} fișiere?</value>
   </data>
-  <data name="AboutForm_AboutForm_Translators" xml:space="preserve">
-    <value>Traducători</value>
-  </data>
   <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
     <value>Încărcare folder</value>
   </data>
   <data name="AboutForm_AboutForm_Privacy_policy" xml:space="preserve">
     <value>Politica de confidențialitate</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ro" xml:space="preserve">
-    <value>Română</value>
   </data>
   <data name="WorkerTask_GetInvalidConfigResult__0__configuration_is_invalid_or_missing__Please_check__Destination_settings__window_to_configure_it_" xml:space="preserve">
     <value>Configurația {0} nu este validă sau lipsește. Vă rugăm să verificați fereastra "Setări destinație" pentru a o configura.</value>
@@ -312,9 +291,6 @@ Sunteți sigur că doriți să continuați?</value>
   </data>
   <data name="ThisFeatureWillNotWorkWhenDisableUploadOptionIsEnabled" xml:space="preserve">
     <value>Această caracteristică nu va funcționa atunci când opțiunea "DisableUpload" este activată!</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_de" xml:space="preserve">
-    <value>Germană</value>
   </data>
   <data name="ChromeForm_btnUnregister_Click_Chrome_support_disabled_" xml:space="preserve">
     <value>Suport pentru Chrome dezactivat.</value>
@@ -329,12 +305,6 @@ Sunteți sigur că doriți să continuați?</value>
     <value>Doriți să activați efectele de imagine?
 
 Puteți să le dezactivați ulterior din meniul "Sarcini după captură".</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_fa_IR" xml:space="preserve">
-    <value>Persană</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_pt_BR" xml:space="preserve">
-    <value>Portugheză (Brazilia)</value>
   </data>
   <data name="AboutForm_AboutForm_Project_page" xml:space="preserve">
     <value>Pagina proiectului</value>
@@ -378,12 +348,6 @@ Puteți să le dezactivați ulterior din meniul "Sarcini după captură".</value
   <data name="HotkeyManager_ShowFailedHotkeys_hotkeys" xml:space="preserve">
     <value>taste rapide</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_hu" xml:space="preserve">
-    <value>Ungură</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ja_JP" xml:space="preserve">
-    <value>Japoneză</value>
-  </data>
   <data name="TaskHelpers_ToggleHotkeys_Hotkeys_enabled_" xml:space="preserve">
     <value>Taste rapide activate.</value>
   </data>
@@ -392,9 +356,6 @@ Puteți să le dezactivați ulterior din meniul "Sarcini după captură".</value
   </data>
   <data name="UploadTask_OnUploadCompleted_Done" xml:space="preserve">
     <value>Finalizat</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_es_MX" xml:space="preserve">
-    <value>Spaniolă mexicană</value>
   </data>
   <data name="UploadInfoManager_ShowErrors_Upload_errors" xml:space="preserve">
     <value>Erori la încărcare</value>
@@ -413,9 +374,6 @@ Doriți să reporniți ShareX?</value>
   <data name="AboutForm_AboutForm_Website" xml:space="preserve">
     <value>Website</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_uk" xml:space="preserve">
-    <value>Ucraineană</value>
-  </data>
   <data name="FFmpeg_FFmpeg_error" xml:space="preserve">
     <value>Eroare FFmpeg</value>
   </data>
@@ -427,9 +385,6 @@ Doriți să reporniți ShareX?</value>
   </data>
   <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
     <value>Alegeți calea folderului personal ShareX</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_es" xml:space="preserve">
-    <value>Spaniolă</value>
   </data>
   <data name="ScreenColorPicker" xml:space="preserve">
     <value>Selector de culori de pe ecran</value>
@@ -458,9 +413,6 @@ Doriți să reporniți ShareX?</value>
   <data name="UploadTask_DownloadAndUpload_Downloading" xml:space="preserve">
     <value>Se descarcă</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
-    <value>Franceză</value>
-  </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_sharing_service___0_" xml:space="preserve">
     <value>Serviciul de distribuire a URL-urilor: {0}</value>
   </data>
@@ -484,9 +436,6 @@ Doriți să reporniți ShareX?</value>
   </data>
   <data name="UploadTask_OnUploadCompleted_Stopped" xml:space="preserve">
     <value>Oprit</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ru" xml:space="preserve">
-    <value>Rusă</value>
   </data>
   <data name="FFmpeg_FFmpeg_video_and_audio_source_both_can_t_be__None__" xml:space="preserve">
     <value>FFmpeg video și sursa audio nu pot fi ambele "Niciuna".</value>
@@ -513,18 +462,12 @@ Vă rugăm să rulați ShareX ca administrator pentru a schimba calea folderului
   <data name="InspectWindow_WindowHandle" xml:space="preserve">
     <value>Handle fereastră</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_it_IT" xml:space="preserve">
-    <value>Italiană</value>
-  </data>
   <data name="MainForm_tsmiDeleteSelectedFile_Click_Do_you_really_want_to_delete_this_file_" xml:space="preserve">
     <value>Sigur ștergeți acest fișier?</value>
   </data>
   <data name="DropForm_DrawDropImage_Drop_here" xml:space="preserve">
     <value>Trageți
 aici</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_tr" xml:space="preserve">
-    <value>Turcă</value>
   </data>
   <data name="FailedToSaveSettings" xml:space="preserve">
     <value>Nu s-a reușit salvarea setărilor</value>
@@ -545,9 +488,6 @@ Vă rugăm să selectați o altă tastatură rapidă sau să ieșiți din aplica
   <data name="AboutForm_AboutForm_Team" xml:space="preserve">
     <value>Echipă</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_vi_VN" xml:space="preserve">
-    <value>Vietnameză</value>
-  </data>
   <data name="MainForm_UpdateToggleHotkeyButton_Enable_hotkeys" xml:space="preserve">
     <value>Activați tastele rapide</value>
   </data>
@@ -565,9 +505,6 @@ Vă rugăm să selectați o altă tastatură rapidă sau să ieșiți din aplica
   </data>
   <data name="UploadTask_Prepare_Starting" xml:space="preserve">
     <value>Se pornește</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ko_KR" xml:space="preserve">
-    <value>Coreeană</value>
   </data>
   <data name="ActionsToolbar_Tip" xml:space="preserve">
     <value>Țineți apăsat stânga jos pentru a trage
@@ -614,17 +551,8 @@ Clic în mijloc pentru a închide</value>
   <data name="FFmpegIsMissing" xml:space="preserve">
     <value>FFmpeg lipsește</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_pl" xml:space="preserve">
-    <value>Poloneză</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_he-IL" xml:space="preserve">
-    <value>Ebraică</value>
-  </data>
   <data name="ClipboardDoesNotContainAnImage" xml:space="preserve">
     <value>Clipboardul nu conține o imagine.</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ar_YE" xml:space="preserve">
-    <value>Arabă</value>
   </data>
   <data name="AboutForm_AboutForm_Donate" xml:space="preserve">
     <value>Donează</value>

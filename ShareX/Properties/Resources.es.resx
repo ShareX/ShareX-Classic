@@ -203,9 +203,6 @@ Pulse "No" para cancelar la subida y desactivar la función de captura de pantal
   <data name="UploadManager_IsUploadConfirmed_Are_you_sure_you_want_to_upload__0__files_" xml:space="preserve">
     <value>¿Está seguro de que desea cargar {0} archivos?</value>
   </data>
-  <data name="AboutForm_AboutForm_Translators" xml:space="preserve">
-    <value>Traductores</value>
-  </data>
   <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
     <value>Carga de carpeta</value>
   </data>
@@ -317,14 +314,8 @@ Por favor seleccione una tecla de acceso directo diferente o salir de la aplicac
   <data name="ShareXIsMinimizedToTheSystemTray" xml:space="preserve">
     <value>ShareX está minimizado en la bandeja del sistema.</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_zh_CH" xml:space="preserve">
-    <value>Chino simplificado</value>
-  </data>
   <data name="PinToScreen" xml:space="preserve">
     <value>Anclar a la pantalla</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_pt_PT" xml:space="preserve">
-    <value>Portugués</value>
   </data>
   <data name="InspectWindow_ProcessName" xml:space="preserve">
     <value>Nombre del proceso</value>
@@ -350,14 +341,8 @@ Por favor seleccione una tecla de acceso directo diferente o salir de la aplicac
   <data name="AboutForm_AboutForm_Changelog" xml:space="preserve">
     <value>Registro de cambios</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
-    <value>Chino tradicional</value>
-  </data>
   <data name="MainForm_UploadDebugLogWarning" xml:space="preserve">
     <value>El registro de depuración puede contener información confidencial. ¿Seguro que desea continuar?</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_id_ID" xml:space="preserve">
-    <value>Indonesio</value>
   </data>
   <data name="AboutForm_AboutForm_Credits" xml:space="preserve">
     <value>Créditos</value>
@@ -386,9 +371,6 @@ Por favor seleccione una tecla de acceso directo diferente o salir de la aplicac
   <data name="ActionsToolbar__LockPosition" xml:space="preserve">
     <value>Bloquear posición</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_nl_NL" xml:space="preserve">
-    <value>Neerlandés</value>
-  </data>
   <data name="ApplicationSettingsForm_cbSteamShowInApp_CheckedChanged_For_settings_to_take_effect_ShareX_needs_to_be_reopened_from_Steam_" xml:space="preserve">
     <value>Para que la configuración surta efecto, ShareX debe volver a abrirse desde Steam.</value>
   </data>
@@ -411,14 +393,8 @@ Por favor seleccione una tecla de acceso directo diferente o salir de la aplicac
   <data name="FFmpegIsMissing" xml:space="preserve">
     <value>Falta FFmpeg</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_pl" xml:space="preserve">
-    <value>Polaco</value>
-  </data>
   <data name="AboutForm_AboutForm_Privacy_policy" xml:space="preserve">
     <value>Política de privacidad</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ro" xml:space="preserve">
-    <value>Rumano</value>
   </data>
   <data name="WorkerTask_GetInvalidConfigResult__0__configuration_is_invalid_or_missing__Please_check__Destination_settings__window_to_configure_it_" xml:space="preserve">
     <value>La configuración de {0} no es válida o falta. Revise la ventana "Configuración de destino" para configurarla.</value>
@@ -426,14 +402,8 @@ Por favor seleccione una tecla de acceso directo diferente o salir de la aplicac
   <data name="ActionsToolbarEditForm_Separator" xml:space="preserve">
     <value>Separador</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_he-IL" xml:space="preserve">
-    <value>Hebreo</value>
-  </data>
   <data name="ThisFeatureWillNotWorkWhenDisableUploadOptionIsEnabled" xml:space="preserve">
     <value>¡Esta función no funcionará cuando la opción "DisableUpload" esté habilitada!</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_de" xml:space="preserve">
-    <value>Alemán</value>
   </data>
   <data name="ChromeForm_btnUnregister_Click_Chrome_support_disabled_" xml:space="preserve">
     <value>Compatibilidad con Chrome deshabilitada.</value>
@@ -445,12 +415,6 @@ Por favor seleccione una tecla de acceso directo diferente o salir de la aplicac
     <value>Would you like to enable imagen effects?
 
 You can later disable it from "After captura tasks" menú.</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_fa_IR" xml:space="preserve">
-    <value>Persa</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_pt_BR" xml:space="preserve">
-    <value>Portugués (Brasil)</value>
   </data>
   <data name="IntegrationHelpers_EditWithShareX" xml:space="preserve">
     <value>Editar with ShareX</value>
@@ -467,20 +431,11 @@ You can later disable it from "After captura tasks" menú.</value>
   <data name="QuickTaskMenuEditorForm_Reset_all_quick_tasks_to_defaults_Confirmation" xml:space="preserve">
     <value>Restablecer all quick tasks to defaults?</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_ar_YE" xml:space="preserve">
-    <value>Árabe</value>
-  </data>
   <data name="RecentManager_UpdateRecentMenu_Left_click_to_copy_URL_to_clipboard__Right_click_to_open_URL_" xml:space="preserve">
     <value>Izquierda click to copiar URL to portapapeles. Derecha click to abrir URL.</value>
   </data>
   <data name="ChromeForm_btnRegister_Click_Chrome_support_enabled_" xml:space="preserve">
     <value>Compatibilidad con Chrome habilitada.</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_hu" xml:space="preserve">
-    <value>Húngaro</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ja_JP" xml:space="preserve">
-    <value>Japonés</value>
   </data>
   <data name="AboutForm_AboutForm_Donate" xml:space="preserve">
     <value>Donar</value>
@@ -491,9 +446,6 @@ You can later disable it from "After captura tasks" menú.</value>
   <data name="QuickTaskMenu_ShowMenu_Continue" xml:space="preserve">
     <value>Continuar</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_es_MX" xml:space="preserve">
-    <value>Español mexicano</value>
-  </data>
   <data name="ActionsToolbar_Close" xml:space="preserve">
     <value>Cerrar</value>
   </data>
@@ -501,9 +453,6 @@ You can later disable it from "After captura tasks" menú.</value>
     <value>ShareX needs to be reiniciared for the personal carpeta changes to apply.
 
 Would you like to reiniciar ShareX?</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_uk" xml:space="preserve">
-    <value>Ucraniano</value>
   </data>
   <data name="FFmpeg_FFmpeg_error" xml:space="preserve">
     <value>Error de FFmpeg</value>
@@ -513,9 +462,6 @@ Would you like to reiniciar ShareX?</value>
   </data>
   <data name="Error" xml:space="preserve">
     <value>Error</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_es" xml:space="preserve">
-    <value>Español</value>
   </data>
   <data name="ScreenColorPicker" xml:space="preserve">
     <value>Pantalla color picker</value>
@@ -531,9 +477,6 @@ Would you like to reiniciar ShareX?</value>
   </data>
   <data name="UploadTask_DownloadAndUpload_Downloading" xml:space="preserve">
     <value>Descargaring</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
-    <value>Francés</value>
   </data>
   <data name="OpticalCharacterRecognitionFeatureIsOnlyAvailableWithWindowsVersion0OrNewer" xml:space="preserve">
     <value>Optical character recognition feature is only available with Ventanas version {0} or newer.</value>
@@ -555,9 +498,6 @@ Would you like to reiniciar ShareX?</value>
   </data>
   <data name="InspectWindow_ExtendedWindowStyles" xml:space="preserve">
     <value>Estilos de ventana extendidos</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ru" xml:space="preserve">
-    <value>Ruso</value>
   </data>
   <data name="FFmpeg_FFmpeg_video_and_audio_source_both_can_t_be__None__" xml:space="preserve">
     <value>Las fuentes de vídeo y audio de FFmpeg no pueden ser ambas "Ninguna".</value>
@@ -588,12 +528,6 @@ Do you want to abort the active grabación de pantalla?</value>
   <data name="InspectWindow_WindowHandle" xml:space="preserve">
     <value>Identificador de ventana</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_it_IT" xml:space="preserve">
-    <value>Italiano</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_tr" xml:space="preserve">
-    <value>Turco</value>
-  </data>
   <data name="FailedToSaveSettings" xml:space="preserve">
     <value>Failed to guardar configuración</value>
   </data>
@@ -606,9 +540,6 @@ Do you want to abort the active grabación de pantalla?</value>
   <data name="ClipboardUpload" xml:space="preserve">
     <value>Portapapeles subida</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_vi_VN" xml:space="preserve">
-    <value>Vietnamita</value>
-  </data>
   <data name="FFmpegDoesNotExistAtTheFollowingPath" xml:space="preserve">
     <value>FFmpeg does not exist at the following ruta:</value>
   </data>
@@ -620,9 +551,6 @@ Do you want to abort the active grabación de pantalla?</value>
   </data>
   <data name="ImageData_Write_Error_Message" xml:space="preserve">
     <value>Could not write imagen to ruta:</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ko_KR" xml:space="preserve">
-    <value>Coreano</value>
   </data>
   <data name="ActionsToolbar_Tip" xml:space="preserve">
     <value>Hold izquierda down to drag

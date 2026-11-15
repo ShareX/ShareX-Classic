@@ -123,9 +123,6 @@
   <data name="ClipboardFormatForm_ClipboardFormatForm_Supported_variables___0__and_other_variables_such_as__1__etc_" xml:space="preserve">
     <value>Variabili supportate: {0} e altre variabili come {1} ecc.</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_zh_CH" xml:space="preserve">
-    <value>Cinese (Semplificato)</value>
-  </data>
   <data name="ActionsForm_btnOK_Click_File_path_can_t_be_empty_" xml:space="preserve">
     <value>Il percorso file non puù essere vuoto.</value>
   </data>
@@ -159,9 +156,6 @@
   <data name="ApplicationSettingsForm_cbLanguage_SelectedIndexChanged_Language_Restart" xml:space="preserve">
     <value>ShareX deve essere riavviato per cambiare lingua.
 Riavviare ShareX?</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
-    <value>Cinese (Tradizionale)</value>
   </data>
   <data name="UploadTask_ThreadDoWork_URL_is_empty_" xml:space="preserve">
     <value>L'URL è vuoto.</value>
@@ -202,9 +196,6 @@ Premi "No" per annullare il caricamento e disabilitare il caricamento automatico
   </data>
   <data name="ActionsToolbar__LockPosition" xml:space="preserve">
     <value>Blocca Posizione</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_nl_NL" xml:space="preserve">
-    <value>Danese</value>
   </data>
   <data name="UploadTask_CreateShareURLTask_Share_URL___0__" xml:space="preserve">
     <value>Condividi URL ({0})</value>
@@ -249,9 +240,6 @@ Sei sicuro di voler continuare?</value>
   <data name="UploadManager_IsUploadConfirmed_Are_you_sure_you_want_to_upload__0__files_" xml:space="preserve">
     <value>Sei sicuro di voler caricare {0} file?</value>
   </data>
-  <data name="AboutForm_AboutForm_Translators" xml:space="preserve">
-    <value>Traduttori</value>
-  </data>
   <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
     <value>Carica Cartella</value>
   </data>
@@ -264,17 +252,11 @@ Sei sicuro di voler continuare?</value>
   <data name="ActionsToolbarEditForm_Separator" xml:space="preserve">
     <value>Separatore</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_de" xml:space="preserve">
-    <value>Tedesco</value>
-  </data>
   <data name="ChromeForm_btnUnregister_Click_Chrome_support_disabled_" xml:space="preserve">
     <value>Supporto Chrome Disabilitato</value>
   </data>
   <data name="MainForm_tsmiTestTextUpload_Click_Text_upload_test" xml:space="preserve">
     <value>Prova Caricamento Testo</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_pt_BR" xml:space="preserve">
-    <value>Portoghese (Brasile)</value>
   </data>
   <data name="AboutForm_AboutForm_Project_page" xml:space="preserve">
     <value>Pagina del Progetto</value>
@@ -309,9 +291,6 @@ Sei sicuro di voler continuare?</value>
   <data name="HotkeyManager_ShowFailedHotkeys_hotkeys" xml:space="preserve">
     <value>scorciatoie</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_hu" xml:space="preserve">
-    <value>Ungherese</value>
-  </data>
   <data name="TaskHelpers_ToggleHotkeys_Hotkeys_enabled_" xml:space="preserve">
     <value>Scorciatoie Attivate</value>
   </data>
@@ -336,9 +315,6 @@ Sei sicuro di voler continuare?</value>
   <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
     <value>Scegli il Percorso della Cartella Personale di ShareX</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_es" xml:space="preserve">
-    <value>Spagnolo</value>
-  </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_Text_uploader___0_" xml:space="preserve">
     <value>Servizio Caricamento Testo: {0}</value>
   </data>
@@ -354,17 +330,11 @@ Sei sicuro di voler continuare?</value>
   <data name="UploadTask_DownloadAndUpload_Downloading" xml:space="preserve">
     <value>Scaricamento</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
-    <value>Francese</value>
-  </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_sharing_service___0_" xml:space="preserve">
     <value>Servizio Condivisione URL: {0}</value>
   </data>
   <data name="UploadTask_OnUploadCompleted_Stopped" xml:space="preserve">
     <value>Fermato</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ru" xml:space="preserve">
-    <value>Russo</value>
   </data>
   <data name="IntegrationHelpers_UploadWithShareX" xml:space="preserve">
     <value>Carica con ShareX</value>
@@ -379,18 +349,12 @@ Esegui ShareX come amministratore per cambiare il percorso della cartella person
   <data name="ApplicationSettingsForm_cbStartWithWindows_DisabledByUser_Text" xml:space="preserve">
     <value>L'avvio automatico è stato disattivato in Gestione Attività</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_it_IT" xml:space="preserve">
-    <value>Italiano</value>
-  </data>
   <data name="MainForm_tsmiDeleteSelectedFile_Click_Do_you_really_want_to_delete_this_file_" xml:space="preserve">
     <value>Vuoi veramente eliminare questo file?</value>
   </data>
   <data name="DropForm_DrawDropImage_Drop_here" xml:space="preserve">
     <value>Trascina
 Qui</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_tr" xml:space="preserve">
-    <value>Turco</value>
   </data>
   <data name="HotkeyManager_ShowFailedHotkeys_hotkey" xml:space="preserve">
     <value>scorciatoia</value>
@@ -401,9 +365,6 @@ Qui</value>
 {1}
 
 Selezione una scorciatoia diversa o chiudi l'applicazione che crea conflitto e riavvia ShareX.</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_vi_VN" xml:space="preserve">
-    <value>Vietnamita</value>
   </data>
   <data name="MainForm_UpdateToggleHotkeyButton_Enable_hotkeys" xml:space="preserve">
     <value>Attiva Scorciatoie da Tastiera</value>
@@ -419,9 +380,6 @@ Selezione una scorciatoia diversa o chiudi l'applicazione che crea conflitto e r
   </data>
   <data name="UploadTask_Prepare_Starting" xml:space="preserve">
     <value>Avvio</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ko_KR" xml:space="preserve">
-    <value>Coreano</value>
   </data>
   <data name="ActionsToolbar_Tip" xml:space="preserve">
     <value>- Tieni Premuto il Tasto Sinistro per Trascinare
@@ -450,9 +408,6 @@ Selezione una scorciatoia diversa o chiudi l'applicazione che crea conflitto e r
   <data name="PinToScreen" xml:space="preserve">
     <value>Fissa allo schermo</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_pt_PT" xml:space="preserve">
-    <value>Portoghese</value>
-  </data>
   <data name="InspectWindow_ProcessName" xml:space="preserve">
     <value>Nome processo</value>
   </data>
@@ -464,9 +419,6 @@ Selezione una scorciatoia diversa o chiudi l'applicazione che crea conflitto e r
   </data>
   <data name="MainForm_UploadDebugLogWarning" xml:space="preserve">
     <value>Il log di debug può contenere informazioni sensibili. Continuare?</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_id_ID" xml:space="preserve">
-    <value>Indonesiano</value>
   </data>
   <data name="AboutForm_AboutForm_Credits" xml:space="preserve">
     <value>Crediti</value>
@@ -495,17 +447,8 @@ Selezione una scorciatoia diversa o chiudi l'applicazione che crea conflitto e r
   <data name="FFmpegIsMissing" xml:space="preserve">
     <value>FFmpeg mancante</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_pl" xml:space="preserve">
-    <value>Polacco</value>
-  </data>
   <data name="AboutForm_AboutForm_Privacy_policy" xml:space="preserve">
     <value>Informativa sulla privacy</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ro" xml:space="preserve">
-    <value>Rumeno</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_he-IL" xml:space="preserve">
-    <value>Ebraico</value>
   </data>
   <data name="ThisFeatureWillNotWorkWhenDisableUploadOptionIsEnabled" xml:space="preserve">
     <value>This feature will not work when "DisableCarica" option is enabled!</value>
@@ -517,9 +460,6 @@ Selezione una scorciatoia diversa o chiudi l'applicazione che crea conflitto e r
     <value>Would you like to enable immagine effects?
 
 You can later disable it from "After acquisizione tasks" menu.</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_fa_IR" xml:space="preserve">
-    <value>Persiano</value>
   </data>
   <data name="IntegrationHelpers_EditWithShareX" xml:space="preserve">
     <value>Modifica with ShareX</value>
@@ -533,25 +473,13 @@ You can later disable it from "After acquisizione tasks" menu.</value>
   <data name="YourAntiVirusSoftwareOrTheControlledFolderAccessFeatureInWindowsCouldBeBlockingShareX" xml:space="preserve">
     <value>Your anti-virus software or the controlled cartella access feature in Finestras could be blocking ShareX.</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_ar_YE" xml:space="preserve">
-    <value>Arabo</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ja_JP" xml:space="preserve">
-    <value>Giapponese</value>
-  </data>
   <data name="AboutForm_AboutForm_Donate" xml:space="preserve">
     <value>Dona</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_es_MX" xml:space="preserve">
-    <value>Spagnolo messicano</value>
   </data>
   <data name="ShareXNeedsToBeRestartedForThePersonalFolderChangesToApply" xml:space="preserve">
     <value>ShareX needs to be reavviaed for the personal cartella changes to apply.
 
 Would you like to reavvia ShareX?</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_uk" xml:space="preserve">
-    <value>Ucraino</value>
   </data>
   <data name="FFmpeg_FFmpeg_error" xml:space="preserve">
     <value>FFmpeg errore</value>

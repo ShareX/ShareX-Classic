@@ -179,9 +179,6 @@ Klik op "Nee" om de huidige upload te annuleren en het automatisch uploaden uit 
   <data name="BeforeUploadForm_BeforeUploadForm_Please_choose_a_destination_" xml:space="preserve">
     <value>Gelieve een bestemming te kiezen.</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_nl_NL" xml:space="preserve">
-    <value>Nederlands</value>
-  </data>
   <data name="UploadTask_CreateShareURLTask_Share_URL___0__" xml:space="preserve">
     <value>Deel link ({0})</value>
   </data>
@@ -225,17 +222,11 @@ Ben je zeker dat je door wilt gaan?</value>
   <data name="UploadManager_IsUploadConfirmed_Are_you_sure_you_want_to_upload__0__files_" xml:space="preserve">
     <value>Ben je zeker dat je {0} bestanden wilt uploaden?</value>
   </data>
-  <data name="AboutForm_AboutForm_Translators" xml:space="preserve">
-    <value>Vertalers</value>
-  </data>
   <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
     <value>Map uploaden</value>
   </data>
   <data name="UploadTask_CreateURLShortenerTask_Shorten_URL___0__" xml:space="preserve">
     <value>Verkort link ({0})</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_de" xml:space="preserve">
-    <value>Duits</value>
   </data>
   <data name="ChromeForm_btnUnregister_Click_Chrome_support_disabled_" xml:space="preserve">
     <value>Chrome ondersteuning is uitgeschakeld.</value>
@@ -297,9 +288,6 @@ Ben je zeker dat je door wilt gaan?</value>
   <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
     <value>Kies de persoonlijke map voor ShareX</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_es" xml:space="preserve">
-    <value>Spaans</value>
-  </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_Text_uploader___0_" xml:space="preserve">
     <value>Tekstuploader: {0}</value>
   </data>
@@ -315,17 +303,11 @@ Ben je zeker dat je door wilt gaan?</value>
   <data name="UploadTask_DownloadAndUpload_Downloading" xml:space="preserve">
     <value>Downloaden</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
-    <value>Frans</value>
-  </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_URL_sharing_service___0_" xml:space="preserve">
     <value>dienst voor delen links: {0}</value>
   </data>
   <data name="UploadTask_OnUploadCompleted_Stopped" xml:space="preserve">
     <value>Gestopt</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ru" xml:space="preserve">
-    <value>Russisch</value>
   </data>
   <data name="IntegrationHelpers_UploadWithShareX" xml:space="preserve">
     <value>Upload met ShareX</value>
@@ -345,9 +327,6 @@ Voer ShareX uit als beheerder om de persoonlijke map te wijzigen.</value>
   </data>
   <data name="DropForm_DrawDropImage_Drop_here" xml:space="preserve">
     <value>Sleep bestanden hier naartoe</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_tr" xml:space="preserve">
-    <value>Turks</value>
   </data>
   <data name="HotkeyManager_ShowFailedHotkeys_hotkey" xml:space="preserve">
     <value>sneltoets</value>
@@ -387,14 +366,8 @@ Gelieve een andere sneltoets te selecteren of sluit het conflicterende programma
   <data name="ShareXIsMinimizedToTheSystemTray" xml:space="preserve">
     <value>ShareX is geminimaliseerd naar het systeemvak.</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_zh_CH" xml:space="preserve">
-    <value>Vereenvoudigd Chinees</value>
-  </data>
   <data name="PinToScreen" xml:space="preserve">
     <value>Pin to scherm</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_pt_PT" xml:space="preserve">
-    <value>Portugees</value>
   </data>
   <data name="InspectWindow_ProcessName" xml:space="preserve">
     <value>Procesnaam</value>
@@ -417,14 +390,8 @@ Gelieve een andere sneltoets te selecteren of sluit het conflicterende programma
   <data name="ShareXIsUpToDate" xml:space="preserve">
     <value>ShareX is bijgewerkt!</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
-    <value>Traditioneel Chinees</value>
-  </data>
   <data name="MainForm_UploadDebugLogWarning" xml:space="preserve">
     <value>The debug log can contain sensitive inindelingion. Are you sure you want to proceed?</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_id_ID" xml:space="preserve">
-    <value>Indonesisch</value>
   </data>
   <data name="AboutForm_AboutForm_Credits" xml:space="preserve">
     <value>Crbewerkens</value>
@@ -459,23 +426,14 @@ Gelieve een andere sneltoets te selecteren of sluit het conflicterende programma
   <data name="FFmpegIsMissing" xml:space="preserve">
     <value>FFmpeg ontbreekt</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_pl" xml:space="preserve">
-    <value>Pools</value>
-  </data>
   <data name="AboutForm_AboutForm_Privacy_policy" xml:space="preserve">
     <value>Privacybeleid</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ro" xml:space="preserve">
-    <value>Roemeens</value>
   </data>
   <data name="WorkerTask_GetInvalidConfigResult__0__configuration_is_invalid_or_missing__Please_check__Destination_settings__window_to_configure_it_" xml:space="preserve">
     <value>{0} configuration is invalid or missing. Please check "Bestemmingsinstellingen" venster to configure it.</value>
   </data>
   <data name="ActionsToolbarEditForm_Separator" xml:space="preserve">
     <value>Scheidingsteken</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_he-IL" xml:space="preserve">
-    <value>Hebreeuws</value>
   </data>
   <data name="ThisFeatureWillNotWorkWhenDisableUploadOptionIsEnabled" xml:space="preserve">
     <value>This feature will not work when "DisableUploaden" option is inschakelend!</value>
@@ -487,12 +445,6 @@ Gelieve een andere sneltoets te selecteren of sluit het conflicterende programma
     <value>Would you like to inschakelen afbeelding effects?
 
 You can later disable it from "After opname taken" menu.</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_fa_IR" xml:space="preserve">
-    <value>Perzisch</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_pt_BR" xml:space="preserve">
-    <value>Portugees (Brazilië)</value>
   </data>
   <data name="IntegrationHelpers_EditWithShareX" xml:space="preserve">
     <value>Bewerken with ShareX</value>
@@ -509,28 +461,13 @@ You can later disable it from "After opname taken" menu.</value>
   <data name="QuickTaskMenuEditorForm_Reset_all_quick_tasks_to_defaults_Confirmation" xml:space="preserve">
     <value>Resetten all quick taken to standaards?</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_ar_YE" xml:space="preserve">
-    <value>Arabisch</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_hu" xml:space="preserve">
-    <value>Hongaars</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ja_JP" xml:space="preserve">
-    <value>Japans</value>
-  </data>
   <data name="AboutForm_AboutForm_Donate" xml:space="preserve">
     <value>Doneren</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_es_MX" xml:space="preserve">
-    <value>Mexicaans-Spaans</value>
   </data>
   <data name="ShareXNeedsToBeRestartedForThePersonalFolderChangesToApply" xml:space="preserve">
     <value>ShareX needs to be restartened for the persoonlijke map changes to apply.
 
 Would you like to restarten ShareX?</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_uk" xml:space="preserve">
-    <value>Oekraïens</value>
   </data>
   <data name="FFmpeg_FFmpeg_error" xml:space="preserve">
     <value>FFmpeg fout</value>
@@ -594,9 +531,6 @@ Do you want to abort the active scherm opname?</value>
   <data name="InspectWindow_WindowHandle" xml:space="preserve">
     <value>Venster handle</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_it_IT" xml:space="preserve">
-    <value>Italiaans</value>
-  </data>
   <data name="FailedToSaveSettings" xml:space="preserve">
     <value>Failed to opslaan instellingen</value>
   </data>
@@ -609,9 +543,6 @@ Do you want to abort the active scherm opname?</value>
   <data name="ClipboardUpload" xml:space="preserve">
     <value>Klembord uploaden</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_vi_VN" xml:space="preserve">
-    <value>Vietnamees</value>
-  </data>
   <data name="FFmpegDoesNotExistAtTheFollowingPath" xml:space="preserve">
     <value>FFmpeg does not exist at the following path:</value>
   </data>
@@ -620,9 +551,6 @@ Do you want to abort the active scherm opname?</value>
   </data>
   <data name="ImageData_Write_Error_Message" xml:space="preserve">
     <value>Could not write afbeelding to path:</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ko_KR" xml:space="preserve">
-    <value>Koreaans</value>
   </data>
   <data name="ActionsToolbar_Tip" xml:space="preserve">
     <value>Hold links down to drag

@@ -130,9 +130,6 @@
   <data name="ClipboardFormatForm_ClipboardFormatForm_Supported_variables___0__and_other_variables_such_as__1__etc_" xml:space="preserve">
     <value>Supported variables: {0} and other variables such as {1} etc.</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_zh_CH" xml:space="preserve">
-    <value>Simplified Chinese</value>
-  </data>
   <data name="ActionsForm_btnOK_Click_File_path_can_t_be_empty_" xml:space="preserve">
     <value>File path can't be empty.</value>
   </data>
@@ -150,9 +147,6 @@
   </data>
   <data name="PinToScreen" xml:space="preserve">
     <value>Pin to screen</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_pt_PT" xml:space="preserve">
-    <value>Portuguese</value>
   </data>
   <data name="keyboard__minus" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\keyboard--minus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -254,9 +248,6 @@ Would you like to restart ShareX?</value>
   </data>
   <data name="layer_transparent" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\layer-transparent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_id_ID" xml:space="preserve">
-    <value>Indonesian</value>
   </data>
   <data name="ActionsToolbar_Tip" xml:space="preserve">
     <value>Hold left down to drag
@@ -378,9 +369,6 @@ Press 'No' to cancel the current upload and disable screenshot auto uploading.</
   <data name="ActionsToolbar__LockPosition" xml:space="preserve">
     <value>Lock position</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_nl_NL" xml:space="preserve">
-    <value>Dutch</value>
-  </data>
   <data name="tw" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -445,9 +433,6 @@ Are you sure you want to continue?</value>
   <data name="FFmpegIsMissing" xml:space="preserve">
     <value>FFmpeg is missing</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
-    <value>French</value>
-  </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_File_uploader___0_" xml:space="preserve">
     <value>File uploader: {0}</value>
   </data>
@@ -459,9 +444,6 @@ Are you sure you want to continue?</value>
   </data>
   <data name="UploadTask_DoAfterCaptureJobs_Choose_a_folder_to_save" xml:space="preserve">
     <value>Choose a folder to save</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_pl" xml:space="preserve">
-    <value>Polish</value>
   </data>
   <data name="application_blog" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\application-blog.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -505,9 +487,6 @@ Are you sure you want to continue?</value>
   <data name="drive_download" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\drive-download.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="AboutForm_AboutForm_Translators" xml:space="preserve">
-    <value>Translators</value>
-  </data>
   <data name="clock__minus" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\clock--minus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -520,9 +499,6 @@ Are you sure you want to continue?</value>
   <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
     <value>Choose ShareX personal folder path</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_ro" xml:space="preserve">
-    <value>Romanian</value>
-  </data>
   <data name="WorkerTask_GetInvalidConfigResult__0__configuration_is_invalid_or_missing__Please_check__Destination_settings__window_to_configure_it_" xml:space="preserve">
     <value>{0} configuration is invalid or missing. Please check "Destination settings" window to configure it.</value>
   </data>
@@ -531,9 +507,6 @@ Are you sure you want to continue?</value>
   </data>
   <data name="ActionsToolbarEditForm_Separator" xml:space="preserve">
     <value>Separator</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_he-IL" xml:space="preserve">
-    <value>Hebrew</value>
   </data>
   <data name="ThisFeatureWillNotWorkWhenDisableUploadOptionIsEnabled" xml:space="preserve">
     <value>This feature will not work when "DisableUpload" option is enabled!</value>
@@ -559,9 +532,6 @@ Are you sure you want to continue?</value>
   <data name="ru" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ru.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_de" xml:space="preserve">
-    <value>German</value>
-  </data>
   <data name="ChromeForm_btnUnregister_Click_Chrome_support_disabled_" xml:space="preserve">
     <value>Chrome support disabled.</value>
   </data>
@@ -578,12 +548,6 @@ You can later disable it from "After capture tasks" menu.</value>
   </data>
   <data name="edit_scale" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\edit-scale.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_fa_IR" xml:space="preserve">
-    <value>Persian</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_pt_BR" xml:space="preserve">
-    <value>Portuguese (Brazil)</value>
   </data>
   <data name="AboutForm_AboutForm_Project_page" xml:space="preserve">
     <value>Project page</value>
@@ -633,9 +597,6 @@ You can later disable it from "After capture tasks" menu.</value>
   <data name="QuickTaskMenuEditorForm_Reset_all_quick_tasks_to_defaults_Confirmation" xml:space="preserve">
     <value>Reset all quick tasks to defaults?</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_ar_YE" xml:space="preserve">
-    <value>Arabic</value>
-  </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_After_capture___0_" xml:space="preserve">
     <value>After capture: {0}</value>
   </data>
@@ -678,14 +639,8 @@ You can later disable it from "After capture tasks" menu.</value>
   <data name="HotkeyManager_ShowFailedHotkeys_hotkeys" xml:space="preserve">
     <value>hotkeys</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_hu" xml:space="preserve">
-    <value>Hungarian</value>
-  </data>
   <data name="Bing" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Bing.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ja_JP" xml:space="preserve">
-    <value>Japanese</value>
   </data>
   <data name="hu" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\hu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -716,9 +671,6 @@ You can later disable it from "After capture tasks" menu.</value>
   </data>
   <data name="ua" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ua.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_es_MX" xml:space="preserve">
-    <value>Mexican Spanish</value>
   </data>
   <data name="categories" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\categories.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -764,9 +716,6 @@ Would you like to restart ShareX?</value>
   <data name="AboutForm_AboutForm_Website" xml:space="preserve">
     <value>Website</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_uk" xml:space="preserve">
-    <value>Ukrainian</value>
-  </data>
   <data name="FFmpeg_FFmpeg_error" xml:space="preserve">
     <value>FFmpeg error</value>
   </data>
@@ -787,9 +736,6 @@ Would you like to restart ShareX?</value>
   </data>
   <data name="pt" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_es" xml:space="preserve">
-    <value>Spanish</value>
   </data>
   <data name="it" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\it.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -893,9 +839,6 @@ Would you like to restart ShareX?</value>
   <data name="WouldYouLikeToRetryClipboardUpload" xml:space="preserve">
     <value>Would you like to retry clipboard upload?</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_ru" xml:space="preserve">
-    <value>Russian</value>
-  </data>
   <data name="FFmpeg_FFmpeg_video_and_audio_source_both_can_t_be__None__" xml:space="preserve">
     <value>FFmpeg video and audio source can't both be "None".</value>
   </data>
@@ -941,9 +884,6 @@ Please run ShareX as administrator to change personal folder path.</value>
   <data name="InspectWindow_WindowHandle" xml:space="preserve">
     <value>Window handle</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_it_IT" xml:space="preserve">
-    <value>Italian</value>
-  </data>
   <data name="DropForm_DrawDropImage_Drop_here" xml:space="preserve">
     <value>Drop
 here</value>
@@ -956,9 +896,6 @@ here</value>
   </data>
   <data name="megaphone" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\megaphone.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_tr" xml:space="preserve">
-    <value>Turkish</value>
   </data>
   <data name="status" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\status.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -1002,9 +939,6 @@ Please select a different hotkey or quit the conflicting application and reopen 
   </data>
   <data name="image_saturation" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\image-saturation.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_vi_VN" xml:space="preserve">
-    <value>Vietnamese</value>
   </data>
   <data name="tr" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tr.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -1057,14 +991,8 @@ Please select a different hotkey or quit the conflicting application and reopen 
   <data name="information" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\information.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
-    <value>Traditional Chinese</value>
-  </data>
   <data name="document_copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\document-copy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ko_KR" xml:space="preserve">
-    <value>Korean</value>
   </data>
   <data name="tick_button" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tick-button.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>

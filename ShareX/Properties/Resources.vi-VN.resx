@@ -126,17 +126,11 @@
   <data name="ClipboardFormatForm_ClipboardFormatForm_Supported_variables___0__and_other_variables_such_as__1__etc_" xml:space="preserve">
     <value>Các biến được hỗ trợ: {0} và các biến khác như {1}, v.v</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_zh_CH" xml:space="preserve">
-    <value>Tiếng Trung giản thể</value>
-  </data>
   <data name="ActionsForm_btnOK_Click_File_path_can_t_be_empty_" xml:space="preserve">
     <value>Đường dẫn tới tệp tin không thể trống</value>
   </data>
   <data name="PinToScreen" xml:space="preserve">
     <value>Ghim vào màn hình</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_pt_PT" xml:space="preserve">
-    <value>Tiếng Bồ Đào Nha</value>
   </data>
   <data name="UploadManager_IsUploadConfirmed_Upload_files" xml:space="preserve">
     <value>Tải lên các file</value>
@@ -175,14 +169,8 @@
     <value>ShareX cần được khởi động lại để thay đổi ngôn ngữ có tác dụng.
 Bạn có muốn khởi động lại ShareX không?</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
-    <value>Tiếng Trung phồn thể</value>
-  </data>
   <data name="MainForm_UploadDebugLogWarning" xml:space="preserve">
     <value>Dữ liệu debug có thể chứa thông tin nhạy cảm. Bạn có chắc muốn tiếp tục không?</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_id_ID" xml:space="preserve">
-    <value>Tiếng Indonesia</value>
   </data>
   <data name="AboutForm_AboutForm_Credits" xml:space="preserve">
     <value>Tín dụng</value>
@@ -236,9 +224,6 @@ Nhấn "Không" để hủy tiến trình tải lên hiện tại và tắt ch�
   <data name="ActionsToolbar__LockPosition" xml:space="preserve">
     <value>Cố định vị trí</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_nl_NL" xml:space="preserve">
-    <value>Tiếng Hà Lan</value>
-  </data>
   <data name="UploadTask_CreateShareURLTask_Share_URL___0__" xml:space="preserve">
     <value>Chia sẻ URL ({0})</value>
   </data>
@@ -285,9 +270,6 @@ Bạn có muốn tiếp tục?</value>
   <data name="UploadTask_DoAfterCaptureJobs_Choose_a_folder_to_save" xml:space="preserve">
     <value>Chọn thư mục để lưu</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_pl" xml:space="preserve">
-    <value>Tiếng Ba Lan</value>
-  </data>
   <data name="ActionsForm_btnOK_Click_Name_can_t_be_empty_" xml:space="preserve">
     <value>Tên không thể để trống</value>
   </data>
@@ -300,17 +282,11 @@ Bạn có muốn tiếp tục?</value>
   <data name="UploadManager_IsUploadConfirmed_Are_you_sure_you_want_to_upload__0__files_" xml:space="preserve">
     <value>Bạn có chắc chắn tải lên {0} tệp tin không?</value>
   </data>
-  <data name="AboutForm_AboutForm_Translators" xml:space="preserve">
-    <value>Biên dịch</value>
-  </data>
   <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
     <value>Tải lên thư mục</value>
   </data>
   <data name="AboutForm_AboutForm_Privacy_policy" xml:space="preserve">
     <value>Chính sách bảo mật</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ro" xml:space="preserve">
-    <value>Tiếng Rumani</value>
   </data>
   <data name="WorkerTask_GetInvalidConfigResult__0__configuration_is_invalid_or_missing__Please_check__Destination_settings__window_to_configure_it_" xml:space="preserve">
     <value>Thiết lập {0} không đúng hoặc bị thiếu. Vui lòng kiểm tra cửa sổ "Cài đặt dịch vụ tải lên" để thiết lập.</value>
@@ -323,9 +299,6 @@ Bạn có muốn tiếp tục?</value>
   </data>
   <data name="ThisFeatureWillNotWorkWhenDisableUploadOptionIsEnabled" xml:space="preserve">
     <value>Tính năng này sẽ không hoạt động khi tùy chọn "DisableUpload" được kích hoạt!</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_de" xml:space="preserve">
-    <value>Tiếng Đức</value>
   </data>
   <data name="ChromeForm_btnUnregister_Click_Chrome_support_disabled_" xml:space="preserve">
     <value>Hỗ trợ Chrome đã tắt</value>
@@ -340,12 +313,6 @@ Bạn có muốn tiếp tục?</value>
     <value>Bạn có muốn bật hiệu ứng hình ảnh không?
 
 Sau đó, bạn có thể tắt nó từ menu "Sau khi chụp tác vụ".</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_fa_IR" xml:space="preserve">
-    <value>Tiếng Ba Tư</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_pt_BR" xml:space="preserve">
-    <value>Tiếng Bồ Đào Nha (Brazil)</value>
   </data>
   <data name="AboutForm_AboutForm_Project_page" xml:space="preserve">
     <value>Trang dự án</value>
@@ -392,12 +359,6 @@ Sau đó, bạn có thể tắt nó từ menu "Sau khi chụp tác vụ".</value
   <data name="HotkeyManager_ShowFailedHotkeys_hotkeys" xml:space="preserve">
     <value>Các phím tắt</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_hu" xml:space="preserve">
-    <value>Tiếng Hungary</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ja_JP" xml:space="preserve">
-    <value>Tiếng Nhật</value>
-  </data>
   <data name="TaskHelpers_ToggleHotkeys_Hotkeys_enabled_" xml:space="preserve">
     <value>Phím tắt đã bị vô hiệu hóa.</value>
   </data>
@@ -406,9 +367,6 @@ Sau đó, bạn có thể tắt nó từ menu "Sau khi chụp tác vụ".</value
   </data>
   <data name="UploadTask_OnUploadCompleted_Done" xml:space="preserve">
     <value>Đã xong</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_es_MX" xml:space="preserve">
-    <value>Tiếng Tây Ban Nha Mexico</value>
   </data>
   <data name="UploadInfoManager_ShowErrors_Upload_errors" xml:space="preserve">
     <value>Lỗi tải lên</value>
@@ -427,9 +385,6 @@ Bạn có muốn khởi động lại ShareX?</value>
   <data name="AboutForm_AboutForm_Website" xml:space="preserve">
     <value>Website</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_uk" xml:space="preserve">
-    <value>Tiếng Ukraina</value>
-  </data>
   <data name="FFmpeg_FFmpeg_error" xml:space="preserve">
     <value>Lỗi FFmpeg</value>
   </data>
@@ -441,9 +396,6 @@ Bạn có muốn khởi động lại ShareX?</value>
   </data>
   <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
     <value>Chọn đường dẫn thư mục riêng cho ShareX</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_es" xml:space="preserve">
-    <value>Tiếng Tây Ban Nha</value>
   </data>
   <data name="ScreenColorPicker" xml:space="preserve">
     <value>Bộ chọn màu màn hình</value>
@@ -472,9 +424,6 @@ Bạn có muốn khởi động lại ShareX?</value>
   <data name="UploadTask_DownloadAndUpload_Downloading" xml:space="preserve">
     <value>Đang tải về</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
-    <value>Tiếng Pháp</value>
-  </data>
   <data name="OpticalCharacterRecognitionFeatureIsOnlyAvailableWithWindowsVersion0OrNewer" xml:space="preserve">
     <value>Tính năng nhận dạng ký tự quang học chỉ khả dụng với phiên bản Windows {0} hoặc mới hơn.</value>
   </data>
@@ -502,9 +451,6 @@ Bạn có muốn khởi động lại ShareX?</value>
   <data name="UploadTask_OnUploadCompleted_Stopped" xml:space="preserve">
     <value>Đã dừng lại</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_ru" xml:space="preserve">
-    <value>Tiếng Nga</value>
-  </data>
   <data name="FFmpeg_FFmpeg_video_and_audio_source_both_can_t_be__None__" xml:space="preserve">
     <value>Nguồn âm thanh và video FFmpeg không được là "Không".</value>
   </data>
@@ -530,18 +476,12 @@ Vui lòng chạy ShareX dưới quyền administrator để thay đổi thư m�
   <data name="InspectWindow_WindowHandle" xml:space="preserve">
     <value>Tay nắm cửa sổ</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_it_IT" xml:space="preserve">
-    <value>Tiếng Ý</value>
-  </data>
   <data name="MainForm_tsmiDeleteSelectedFile_Click_Do_you_really_want_to_delete_this_file_" xml:space="preserve">
     <value>Bạn có thật sự muốn xóa tệp này không?</value>
   </data>
   <data name="DropForm_DrawDropImage_Drop_here" xml:space="preserve">
     <value>Thả
 ở đây</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_tr" xml:space="preserve">
-    <value>Tiếng Thổ Nhĩ Kỳ</value>
   </data>
   <data name="FailedToSaveSettings" xml:space="preserve">
     <value>Không lưu được cài đặt</value>
@@ -561,9 +501,6 @@ Vui lòng chọn phím tắt khác hoặc thoát ứng dụng đang gây lỗi v
   </data>
   <data name="AboutForm_AboutForm_Team" xml:space="preserve">
     <value>Đồng đội</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_vi_VN" xml:space="preserve">
-    <value>Tiếng Việt</value>
   </data>
   <data name="FFmpegDoesNotExistAtTheFollowingPath" xml:space="preserve">
     <value>FFmpeg không tồn tại ở đường dẫn sau:</value>
@@ -585,9 +522,6 @@ Vui lòng chọn phím tắt khác hoặc thoát ứng dụng đang gây lỗi v
   </data>
   <data name="UploadTask_Prepare_Starting" xml:space="preserve">
     <value>Đang bắt đầu</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ko_KR" xml:space="preserve">
-    <value>Tiếng Hàn</value>
   </data>
   <data name="ActionsToolbar_Tip" xml:space="preserve">
     <value>Nhấn chuột trái để kéo
@@ -624,12 +558,6 @@ Nhấn chuột giữa để đóng</value>
   </data>
   <data name="ShareXIsUpToDate" xml:space="preserve">
     <value>ShareX đã được cập nhật!</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_he-IL" xml:space="preserve">
-    <value>Tiếng Do Thái</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ar_YE" xml:space="preserve">
-    <value>Tiếng Ả Rập</value>
   </data>
   <data name="AboutForm_AboutForm_Donate" xml:space="preserve">
     <value>Quyên góp</value>

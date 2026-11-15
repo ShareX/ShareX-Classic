@@ -126,17 +126,11 @@
   <data name="ClipboardFormatForm_ClipboardFormatForm_Supported_variables___0__and_other_variables_such_as__1__etc_" xml:space="preserve">
     <value>Поддерживаемые переменные: {0} и другие переменные, такие как {1} и т.д.</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_zh_CH" xml:space="preserve">
-    <value>Упрощённый китайский</value>
-  </data>
   <data name="ActionsForm_btnOK_Click_File_path_can_t_be_empty_" xml:space="preserve">
     <value>Путь к файлу не может быть пустым.</value>
   </data>
   <data name="PinToScreen" xml:space="preserve">
     <value>Закрепить на экране</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_pt_PT" xml:space="preserve">
-    <value>Португальский</value>
   </data>
   <data name="UploadManager_IsUploadConfirmed_Upload_files" xml:space="preserve">
     <value>Загрузить файлы</value>
@@ -178,14 +172,8 @@
     <value>Для изменения языка ShareX необходимо перезапустить.
 Хотите перезапустить ShareX?</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
-    <value>Традиционный китайский</value>
-  </data>
   <data name="MainForm_UploadDebugLogWarning" xml:space="preserve">
     <value>Журнал отладки может содержать конфиденциальную информацию. Вы уверены, что хотите продолжить?</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_id_ID" xml:space="preserve">
-    <value>Индонезийский</value>
   </data>
   <data name="AboutForm_AboutForm_Credits" xml:space="preserve">
     <value>Благодарности</value>
@@ -239,9 +227,6 @@
   <data name="ActionsToolbar__LockPosition" xml:space="preserve">
     <value>Зафиксировать</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_nl_NL" xml:space="preserve">
-    <value>Нидерландский</value>
-  </data>
   <data name="UploadTask_CreateShareURLTask_Share_URL___0__" xml:space="preserve">
     <value>Отправка ссылки ({0})</value>
   </data>
@@ -288,9 +273,6 @@
   <data name="UploadTask_DoAfterCaptureJobs_Choose_a_folder_to_save" xml:space="preserve">
     <value>Выберете папку для сохранения</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_pl" xml:space="preserve">
-    <value>Польский</value>
-  </data>
   <data name="ActionsForm_btnOK_Click_Name_can_t_be_empty_" xml:space="preserve">
     <value>Имя не может быть пустым.</value>
   </data>
@@ -303,17 +285,11 @@
   <data name="UploadManager_IsUploadConfirmed_Are_you_sure_you_want_to_upload__0__files_" xml:space="preserve">
     <value>Приступить к загрузке файлов ({0} шт.) ?</value>
   </data>
-  <data name="AboutForm_AboutForm_Translators" xml:space="preserve">
-    <value>Переводчики</value>
-  </data>
   <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
     <value>Загрузка папки</value>
   </data>
   <data name="AboutForm_AboutForm_Privacy_policy" xml:space="preserve">
     <value>Политика конфиденциальности</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ro" xml:space="preserve">
-    <value>Румынский</value>
   </data>
   <data name="WorkerTask_GetInvalidConfigResult__0__configuration_is_invalid_or_missing__Please_check__Destination_settings__window_to_configure_it_" xml:space="preserve">
     <value>{0} конфигурация не верна или отсутствует. Пожалуйста перейдите в окно "Настройки сервисов" чтобы ее настроить.</value>
@@ -324,14 +300,8 @@
   <data name="ActionsToolbarEditForm_Separator" xml:space="preserve">
     <value>Разделитель</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_he-IL" xml:space="preserve">
-    <value>Иврит</value>
-  </data>
   <data name="ThisFeatureWillNotWorkWhenDisableUploadOptionIsEnabled" xml:space="preserve">
     <value>Эта функция не будет работать, когда опция "DisableUpload" включена!</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_de" xml:space="preserve">
-    <value>Немецкий</value>
   </data>
   <data name="ChromeForm_btnUnregister_Click_Chrome_support_disabled_" xml:space="preserve">
     <value>Поддержка Chrome отключена.</value>
@@ -346,12 +316,6 @@
     <value>Хотите включить эффекты изображений?
 
 Их можно выключить из меню "После захвата".</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_fa_IR" xml:space="preserve">
-    <value>Персидский</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_pt_BR" xml:space="preserve">
-    <value>Португальский (Бразилия)</value>
   </data>
   <data name="AboutForm_AboutForm_Project_page" xml:space="preserve">
     <value>Страница проекта</value>
@@ -377,9 +341,6 @@
   <data name="QuickTaskMenuEditorForm_Reset_all_quick_tasks_to_defaults_Confirmation" xml:space="preserve">
     <value>Сбросить все быстрые задачи?</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_ar_YE" xml:space="preserve">
-    <value>Арабский</value>
-  </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_After_capture___0_" xml:space="preserve">
     <value>После захвата: {0}</value>
   </data>
@@ -401,12 +362,6 @@
   <data name="HotkeyManager_ShowFailedHotkeys_hotkeys" xml:space="preserve">
     <value>горячие клавиши</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_hu" xml:space="preserve">
-    <value>Венгерский</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ja_JP" xml:space="preserve">
-    <value>Японский</value>
-  </data>
   <data name="AboutForm_AboutForm_Donate" xml:space="preserve">
     <value>Пожертвовать</value>
   </data>
@@ -418,9 +373,6 @@
   </data>
   <data name="UploadTask_OnUploadCompleted_Done" xml:space="preserve">
     <value>Готово</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_es_MX" xml:space="preserve">
-    <value>Испанский (Мексика)</value>
   </data>
   <data name="UploadInfoManager_ShowErrors_Upload_errors" xml:space="preserve">
     <value>Ошибки при загрузке на сервер</value>
@@ -439,9 +391,6 @@
   <data name="AboutForm_AboutForm_Website" xml:space="preserve">
     <value>Сайт</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_uk" xml:space="preserve">
-    <value>Украинский</value>
-  </data>
   <data name="FFmpeg_FFmpeg_error" xml:space="preserve">
     <value>Ошибка FFmpeg</value>
   </data>
@@ -453,9 +402,6 @@
   </data>
   <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
     <value>Выберите путь к персональной папке ShareX</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_es" xml:space="preserve">
-    <value>Испанский</value>
   </data>
   <data name="ScreenColorPicker" xml:space="preserve">
     <value>Пипетка</value>
@@ -484,9 +430,6 @@
   <data name="UploadTask_DownloadAndUpload_Downloading" xml:space="preserve">
     <value>Скачивается</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
-    <value>Французский</value>
-  </data>
   <data name="OpticalCharacterRecognitionFeatureIsOnlyAvailableWithWindowsVersion0OrNewer" xml:space="preserve">
     <value>Функция распознавания текста доступна только в версий Windows {0} или новее.</value>
   </data>
@@ -513,9 +456,6 @@
   </data>
   <data name="UploadTask_OnUploadCompleted_Stopped" xml:space="preserve">
     <value>Остановлено</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ru" xml:space="preserve">
-    <value>Русский</value>
   </data>
   <data name="FFmpeg_FFmpeg_video_and_audio_source_both_can_t_be__None__" xml:space="preserve">
     <value>Источники видео и аудио в FFmpeg не могут оба быть "None".</value>
@@ -550,9 +490,6 @@
   <data name="InspectWindow_WindowHandle" xml:space="preserve">
     <value>Дескриптор окна</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_it_IT" xml:space="preserve">
-    <value>Итальянский</value>
-  </data>
   <data name="MainForm_tsmiDeleteSelectedFile_Click_Do_you_really_want_to_delete_this_file_" xml:space="preserve">
     <value>Вы действительно хотите удалить этот файл?</value>
   </data>
@@ -560,9 +497,6 @@
     <value>Бросайте
 файлы
 сюда</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_tr" xml:space="preserve">
-    <value>Турецкий</value>
   </data>
   <data name="FailedToSaveSettings" xml:space="preserve">
     <value>Не удалось сохранить настройки</value>
@@ -586,9 +520,6 @@
   <data name="ClipboardUpload" xml:space="preserve">
     <value>Загрузка из буфера</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_vi_VN" xml:space="preserve">
-    <value>Вьетнамский</value>
-  </data>
   <data name="FFmpegDoesNotExistAtTheFollowingPath" xml:space="preserve">
     <value>FFmpeg отсутствует по следующему пути:</value>
   </data>
@@ -609,9 +540,6 @@
   </data>
   <data name="UploadTask_Prepare_Starting" xml:space="preserve">
     <value>Начинается</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ko_KR" xml:space="preserve">
-    <value>Корейский</value>
   </data>
   <data name="ActionsToolbar_Tip" xml:space="preserve">
     <value>Удерживайте левую кнопку мыши для перемещения

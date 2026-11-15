@@ -126,17 +126,11 @@
   <data name="ClipboardFormatForm_ClipboardFormatForm_Supported_variables___0__and_other_variables_such_as__1__etc_" xml:space="preserve">
     <value>使用可能な変数: {0} とその他の変数、たとえば {1} など。</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_zh_CH" xml:space="preserve">
-    <value>中国語（簡体字）</value>
-  </data>
   <data name="ActionsForm_btnOK_Click_File_path_can_t_be_empty_" xml:space="preserve">
     <value>ファイルのパスを入力してください。</value>
   </data>
   <data name="PinToScreen" xml:space="preserve">
     <value>最前面に固定</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_pt_PT" xml:space="preserve">
-    <value>ポルトガル語</value>
   </data>
   <data name="UploadManager_IsUploadConfirmed_Upload_files" xml:space="preserve">
     <value>ファイルのアップロード</value>
@@ -178,14 +172,8 @@
     <value>言語の変更はShareX の再起動後に反映されます。
 ShareX を再起動しますか？</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_zh_TW" xml:space="preserve">
-    <value>中国語（繁体字）</value>
-  </data>
   <data name="MainForm_UploadDebugLogWarning" xml:space="preserve">
     <value>デバッグのログには詳細な情報が含まれます。続行しますか？</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_id_ID" xml:space="preserve">
-    <value>インドネシア語</value>
   </data>
   <data name="AboutForm_AboutForm_Credits" xml:space="preserve">
     <value>クレジット</value>
@@ -239,9 +227,6 @@ ShareX を再起動しますか？</value>
   <data name="ActionsToolbar__LockPosition" xml:space="preserve">
     <value>位置を固定</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_nl_NL" xml:space="preserve">
-    <value>オランダ語</value>
-  </data>
   <data name="UploadTask_CreateShareURLTask_Share_URL___0__" xml:space="preserve">
     <value>共有 URL ({0})</value>
   </data>
@@ -288,9 +273,6 @@ ShareX を再起動しますか？</value>
   <data name="UploadTask_DoAfterCaptureJobs_Choose_a_folder_to_save" xml:space="preserve">
     <value>保存フォルダーの選択</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_pl" xml:space="preserve">
-    <value>ポーランド語</value>
-  </data>
   <data name="ActionsForm_btnOK_Click_Name_can_t_be_empty_" xml:space="preserve">
     <value>名前を入力してください。</value>
   </data>
@@ -303,17 +285,11 @@ ShareX を再起動しますか？</value>
   <data name="UploadManager_IsUploadConfirmed_Are_you_sure_you_want_to_upload__0__files_" xml:space="preserve">
     <value>本当に {0} 個のファイルをアップロードしますか？</value>
   </data>
-  <data name="AboutForm_AboutForm_Translators" xml:space="preserve">
-    <value>翻訳者</value>
-  </data>
   <data name="UploadManager_UploadFolder_Folder_upload" xml:space="preserve">
     <value>フォルダーのアップロード</value>
   </data>
   <data name="AboutForm_AboutForm_Privacy_policy" xml:space="preserve">
     <value>プライバシーポリシー</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ro" xml:space="preserve">
-    <value>ルーマニア語</value>
   </data>
   <data name="WorkerTask_GetInvalidConfigResult__0__configuration_is_invalid_or_missing__Please_check__Destination_settings__window_to_configure_it_" xml:space="preserve">
     <value>{0} の構成が正しくないか存在しません。"アップロード先の設定" ウィンドウで構成を確認してください。</value>
@@ -324,14 +300,8 @@ ShareX を再起動しますか？</value>
   <data name="ActionsToolbarEditForm_Separator" xml:space="preserve">
     <value>区切り線</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_he-IL" xml:space="preserve">
-    <value>ヘブライ語</value>
-  </data>
   <data name="ThisFeatureWillNotWorkWhenDisableUploadOptionIsEnabled" xml:space="preserve">
     <value>DisableUpload (アップロード無効)の設定が有効のためこの機能は動作しません！</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_de" xml:space="preserve">
-    <value>ドイツ語</value>
   </data>
   <data name="ChromeForm_btnUnregister_Click_Chrome_support_disabled_" xml:space="preserve">
     <value>Chrome サポートを無効にしました。</value>
@@ -346,12 +316,6 @@ ShareX を再起動しますか？</value>
     <value>インストールした画像エフェクトを有効にしますか？
 
 後で「キャプチャー後のタスク」から無効化もできます。</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_fa_IR" xml:space="preserve">
-    <value>ペルシア語</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_pt_BR" xml:space="preserve">
-    <value>ポルトガル語（ブラジル）</value>
   </data>
   <data name="AboutForm_AboutForm_Project_page" xml:space="preserve">
     <value>プロジェクト ページ</value>
@@ -377,9 +341,6 @@ ShareX を再起動しますか？</value>
   <data name="QuickTaskMenuEditorForm_Reset_all_quick_tasks_to_defaults_Confirmation" xml:space="preserve">
     <value>すべてのクイックタスクを既定に戻しますか？</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_ar_YE" xml:space="preserve">
-    <value>アラビア語</value>
-  </data>
   <data name="TaskSettingsForm_UpdateUploaderMenuNames_After_capture___0_" xml:space="preserve">
     <value>キャプチャー後: {0}</value>
   </data>
@@ -401,12 +362,6 @@ ShareX を再起動しますか？</value>
   <data name="HotkeyManager_ShowFailedHotkeys_hotkeys" xml:space="preserve">
     <value>ホットキー</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_hu" xml:space="preserve">
-    <value>ハンガリー語</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ja_JP" xml:space="preserve">
-    <value>日本語</value>
-  </data>
   <data name="TaskHelpers_ToggleHotkeys_Hotkeys_enabled_" xml:space="preserve">
     <value>ホットキーを有効にしました。</value>
   </data>
@@ -415,9 +370,6 @@ ShareX を再起動しますか？</value>
   </data>
   <data name="UploadTask_OnUploadCompleted_Done" xml:space="preserve">
     <value>完了</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_es_MX" xml:space="preserve">
-    <value>メキシコのスペイン語</value>
   </data>
   <data name="UploadInfoManager_ShowErrors_Upload_errors" xml:space="preserve">
     <value>アップロード エラー</value>
@@ -436,9 +388,6 @@ ShareX を再起動しますか？</value>
   <data name="AboutForm_AboutForm_Website" xml:space="preserve">
     <value>ウェブサイト</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_uk" xml:space="preserve">
-    <value>ウクライナ語</value>
-  </data>
   <data name="FFmpeg_FFmpeg_error" xml:space="preserve">
     <value>FFmpegのエラーです</value>
   </data>
@@ -450,9 +399,6 @@ ShareX を再起動しますか？</value>
   </data>
   <data name="ApplicationSettingsForm_btnBrowsePersonalFolderPath_Click_Choose_ShareX_personal_folder_path" xml:space="preserve">
     <value>ShareX  個人フォルダー パスの選択</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_es" xml:space="preserve">
-    <value>スペイン語</value>
   </data>
   <data name="ScreenColorPicker" xml:space="preserve">
     <value>スクリーン カラーピッカー</value>
@@ -481,9 +427,6 @@ ShareX を再起動しますか？</value>
   <data name="UploadTask_DownloadAndUpload_Downloading" xml:space="preserve">
     <value>ダウンロード中</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_fr" xml:space="preserve">
-    <value>フランス語</value>
-  </data>
   <data name="OpticalCharacterRecognitionFeatureIsOnlyAvailableWithWindowsVersion0OrNewer" xml:space="preserve">
     <value>光学式文字認識の機能は Windows バージョン {0} 以降で利用できます。</value>
   </data>
@@ -510,9 +453,6 @@ ShareX を再起動しますか？</value>
   </data>
   <data name="UploadTask_OnUploadCompleted_Stopped" xml:space="preserve">
     <value>停止中</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ru" xml:space="preserve">
-    <value>ロシア語</value>
   </data>
   <data name="FFmpeg_FFmpeg_video_and_audio_source_both_can_t_be__None__" xml:space="preserve">
     <value>FFmpeg の映像とオーディオ両方を同時に None にはできません。</value>
@@ -547,18 +487,12 @@ ShareX を再起動しますか？</value>
   <data name="InspectWindow_WindowHandle" xml:space="preserve">
     <value>ウィンドウ ハンドル</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_it_IT" xml:space="preserve">
-    <value>イタリア語</value>
-  </data>
   <data name="MainForm_tsmiDeleteSelectedFile_Click_Do_you_really_want_to_delete_this_file_" xml:space="preserve">
     <value>本当にこのファイルを削除しますか？</value>
   </data>
   <data name="DropForm_DrawDropImage_Drop_here" xml:space="preserve">
     <value>ここに
 ドロップ</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_tr" xml:space="preserve">
-    <value>トルコ語</value>
   </data>
   <data name="FailedToSaveSettings" xml:space="preserve">
     <value>設定の保存に失敗しました</value>
@@ -582,9 +516,6 @@ ShareX を再起動しますか？</value>
   <data name="ClipboardUpload" xml:space="preserve">
     <value>クリップボード アップロード</value>
   </data>
-  <data name="AboutForm_AboutForm_Language_vi_VN" xml:space="preserve">
-    <value>ベトナム語</value>
-  </data>
   <data name="FFmpegDoesNotExistAtTheFollowingPath" xml:space="preserve">
     <value>FFmpeg が以下のパスに存在しません:</value>
   </data>
@@ -605,9 +536,6 @@ ShareX を再起動しますか？</value>
   </data>
   <data name="UploadTask_Prepare_Starting" xml:space="preserve">
     <value>開始しています</value>
-  </data>
-  <data name="AboutForm_AboutForm_Language_ko_KR" xml:space="preserve">
-    <value>韓国語</value>
   </data>
   <data name="ActionsToolbar_Tip" xml:space="preserve">
     <value>左ドラッグで移動
