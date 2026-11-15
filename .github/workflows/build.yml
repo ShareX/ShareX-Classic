@@ -11,13 +11,13 @@ on:
       - "**/*.gitignore"
       - "**/*.gitattributes"
 
-permissions:
-  contents: read
-
 jobs:
   build:
     name: Build
     runs-on: windows-latest
+
+    permissions:
+      contents: read
 
     strategy:
       fail-fast: false
