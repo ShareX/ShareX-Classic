@@ -577,12 +577,6 @@
   <data name="tsmiHashChecker.Text" xml:space="preserve">
     <value>Hash checker...</value>
   </data>
-  <data name="tsmiMetadata.Size" type="System.Drawing.Size, System.Drawing">
-    <value>194, 22</value>
-  </data>
-  <data name="tsmiMetadata.Text" xml:space="preserve">
-    <value>Metadata...</value>
-  </data>
   <data name="tsmiIndexFolder.Size" type="System.Drawing.Size, System.Drawing">
     <value>194, 22</value>
   </data>
@@ -1647,12 +1641,6 @@
   <data name="tsmiTrayHashChecker.Text" xml:space="preserve">
     <value>Hash checker...</value>
   </data>
-  <data name="tsmiTrayMetadata.Size" type="System.Drawing.Size, System.Drawing">
-    <value>194, 22</value>
-  </data>
-  <data name="tsmiTrayMetadata.Text" xml:space="preserve">
-    <value>Metadata...</value>
-  </data>
   <data name="tsmiTrayIndexFolder.Size" type="System.Drawing.Size, System.Drawing">
     <value>194, 22</value>
   </data>
@@ -2388,12 +2376,6 @@
     <value>tsmiHashChecker</value>
   </data>
   <data name="&gt;&gt;tsmiHashChecker.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tsmiMetadata.Name" xml:space="preserve">
-    <value>tsmiMetadata</value>
-  </data>
-  <data name="&gt;&gt;tsmiMetadata.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tsmiIndexFolder.Name" xml:space="preserve">
@@ -3312,12 +3294,6 @@
     <value>tsmiTrayHashChecker</value>
   </data>
   <data name="&gt;&gt;tsmiTrayHashChecker.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tsmiTrayMetadata.Name" xml:space="preserve">
-    <value>tsmiTrayMetadata</value>
-  </data>
-  <data name="&gt;&gt;tsmiTrayMetadata.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tsmiTrayIndexFolder.Name" xml:space="preserve">

@@ -920,9 +920,6 @@ Você gostaria de transferi-la e instalá-la?</value>
   <data name="AfterCaptureTasks_CopyFileToClipboard" xml:space="preserve">
     <value>Copiar ficheiro para área de transferência</value>
   </data>
-  <data name="HotkeyType_Metadata" xml:space="preserve">
-    <value>Metadados</value>
-  </data>
   <data name="PastebinExpiration_H1" xml:space="preserve">
     <value>1 hora</value>
   </data>
@@ -1255,9 +1252,6 @@ Você gostaria de transferi-la e instalá-la?</value>
   </data>
   <data name="ImageBeautifierBackgroundType_Transparent" xml:space="preserve">
     <value>Transparente</value>
-  </data>
-  <data name="HotkeyType_StripMetadata" xml:space="preserve">
-    <value>Remover metadados</value>
   </data>
   <data name="HotkeyType_QRCodeScanRegion" xml:space="preserve">
     <value>QR code (Scan região)</value>

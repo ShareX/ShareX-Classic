@@ -1244,9 +1244,6 @@
   <data name="ImageBeautifierBackgroundType_Transparent" xml:space="preserve">
     <value>透明</value>
   </data>
-  <data name="HotkeyType_Metadata" xml:space="preserve">
-    <value>メタデータ</value>
-  </data>
   <data name="HotkeyType_StopAutoCapture" xml:space="preserve">
     <value>自動キャプチャを停止</value>
   </data>
@@ -1255,9 +1252,6 @@
   </data>
   <data name="HotkeyType_OCR" xml:space="preserve">
     <value>OCR</value>
-  </data>
-  <data name="HotkeyType_StripMetadata" xml:space="preserve">
-    <value>メタデータを削除</value>
   </data>
   <data name="HotkeyType_QRCodeScanRegion" xml:space="preserve">
     <value>QR コード (領域をスキャン)</value>

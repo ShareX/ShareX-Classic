@@ -1229,9 +1229,6 @@
   <data name="HotkeyType_PinToScreenCloseAll" xml:space="preserve">
     <value>تثبيت على الشاشة وإغلاق الكل</value>
   </data>
-  <data name="HotkeyType_Metadata" xml:space="preserve">
-    <value>البيانات الوصفية</value>
-  </data>
   <data name="GIFQuality_Bit4" xml:space="preserve">
     <value>مُكمِّم Octree بـ 16 لونًا</value>
   </data>
@@ -1255,9 +1252,6 @@
   </data>
   <data name="ImageBeautifierBackgroundType_Transparent" xml:space="preserve">
     <value>شفاف</value>
-  </data>
-  <data name="HotkeyType_StripMetadata" xml:space="preserve">
-    <value>إزالة البيانات الوصفية</value>
   </data>
   <data name="HotkeyType_QRCodeScanRegion" xml:space="preserve">
     <value>رمز QR (مسح منطقة)</value>

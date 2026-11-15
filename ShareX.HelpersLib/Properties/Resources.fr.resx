@@ -974,9 +974,6 @@ Voulez-vous la télécharger et l'installer ?</value>
   <data name="ArrowHeadDirection_Both" xml:space="preserve">
     <value>Les deux</value>
   </data>
-  <data name="HotkeyType_Metadata" xml:space="preserve">
-    <value>Métadonnées</value>
-  </data>
   <data name="ReplCodeMenuCategory_Window" xml:space="preserve">
     <value>Fenêtre</value>
   </data>
@@ -1255,9 +1252,6 @@ Voulez-vous la télécharger et l'installer ?</value>
   </data>
   <data name="ImageBeautifierBackgroundType_Transparent" xml:space="preserve">
     <value>Transparent</value>
-  </data>
-  <data name="HotkeyType_StripMetadata" xml:space="preserve">
-    <value>Supprimer les métadonnées</value>
   </data>
   <data name="HotkeyType_QRCodeScanRegion" xml:space="preserve">
     <value>Code QR (scanner une région)</value>

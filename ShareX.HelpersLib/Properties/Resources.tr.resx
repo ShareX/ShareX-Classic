@@ -1250,12 +1250,6 @@
   <data name="ImageBeautifierBackgroundType_Transparent" xml:space="preserve">
     <value>Saydam</value>
   </data>
-  <data name="HotkeyType_Metadata" xml:space="preserve">
-    <value>Metadata</value>
-  </data>
-  <data name="HotkeyType_StripMetadata" xml:space="preserve">
-    <value>Metadata’yı temizle</value>
-  </data>
   <data name="HotkeyType_QRCodeScanRegion" xml:space="preserve">
     <value>QR kodu (Bölge tara)</value>
   </data>

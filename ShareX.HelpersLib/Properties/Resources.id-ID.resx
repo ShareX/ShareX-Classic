@@ -887,9 +887,6 @@ Apakah anda ingin mengunduh dan menginstalnya?</value>
   <data name="AfterCaptureTasks_CopyFileToClipboard" xml:space="preserve">
     <value>Salin file ke papan klip</value>
   </data>
-  <data name="HotkeyType_Metadata" xml:space="preserve">
-    <value>Metadata</value>
-  </data>
   <data name="Extensions_AddContextMenu_Redo" xml:space="preserve">
     <value>Ulangi</value>
   </data>
@@ -1255,9 +1252,6 @@ Apakah anda ingin mengunduh dan menginstalnya?</value>
   </data>
   <data name="ImageBeautifierBackgroundType_Transparent" xml:space="preserve">
     <value>Transparan</value>
-  </data>
-  <data name="HotkeyType_StripMetadata" xml:space="preserve">
-    <value>Hapus metadata</value>
   </data>
   <data name="HotkeyType_QRCodeScanRegion" xml:space="preserve">
     <value>Kode QR (Pindai wilayah)</value>

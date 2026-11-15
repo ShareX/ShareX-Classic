@@ -1193,9 +1193,6 @@
   <data name="ShapeType_DrawingFreehandArrow" xml:space="preserve">
     <value>חץ חופשי</value>
   </data>
-  <data name="HotkeyType_Metadata" xml:space="preserve">
-    <value>מטא-נתונים</value>
-  </data>
   <data name="URLSharingServices_GoogleImageSearch" xml:space="preserve">
     <value>Google Lens</value>
   </data>
@@ -1255,9 +1252,6 @@
   </data>
   <data name="ImageBeautifierBackgroundType_Transparent" xml:space="preserve">
     <value>שקוף</value>
-  </data>
-  <data name="HotkeyType_StripMetadata" xml:space="preserve">
-    <value>הסר מטא-נתונים</value>
   </data>
   <data name="HotkeyType_QRCodeScanRegion" xml:space="preserve">
     <value>קוד QR (סריקת אזור)</value>

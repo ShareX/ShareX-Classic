@@ -677,9 +677,6 @@ Wil je deze downloaden en installeren?</value>
   <data name="AfterCaptureTasks_CopyFileToClipboard" xml:space="preserve">
     <value>Kopieer bestand naar klembord</value>
   </data>
-  <data name="HotkeyType_Metadata" xml:space="preserve">
-    <value>Metagegevens</value>
-  </data>
   <data name="ShapeType_RegionFreehand" xml:space="preserve">
     <value>Freehand gebied</value>
   </data>
@@ -1255,9 +1252,6 @@ Wil je deze downloaden en installeren?</value>
   </data>
   <data name="ImageBeautifierBackgroundType_Transparent" xml:space="preserve">
     <value>Transparant</value>
-  </data>
-  <data name="HotkeyType_StripMetadata" xml:space="preserve">
-    <value>Metagegevens verwijderen</value>
   </data>
   <data name="HotkeyType_QRCodeScanRegion" xml:space="preserve">
     <value>QR code (Gebied scannen)</value>

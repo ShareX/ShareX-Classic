@@ -507,9 +507,6 @@
   <data name="AfterCaptureTasks_CopyFileToClipboard" xml:space="preserve">
     <value>Fájl vágólapra helyezése</value>
   </data>
-  <data name="HotkeyType_Metadata" xml:space="preserve">
-    <value>Metaadatok</value>
-  </data>
   <data name="ShapeType_RegionFreehand" xml:space="preserve">
     <value>Freehand terület</value>
   </data>
@@ -1254,9 +1251,6 @@ Would you like to letöltés it?</value>
   </data>
   <data name="ImageBeautifierBackgroundType_Transparent" xml:space="preserve">
     <value>Átlátszó</value>
-  </data>
-  <data name="HotkeyType_StripMetadata" xml:space="preserve">
-    <value>Metaadatok eltávolítása</value>
   </data>
   <data name="HotkeyType_QRCodeScanRegion" xml:space="preserve">
     <value>QR code (Scan terület)</value>

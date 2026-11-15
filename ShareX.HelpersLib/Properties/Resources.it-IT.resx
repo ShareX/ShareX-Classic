@@ -842,9 +842,6 @@ Vuoi scaricarla e installarla ora?</value>
   <data name="AfterCaptureTasks_CopyFileToClipboard" xml:space="preserve">
     <value>Copia File negli Appunti</value>
   </data>
-  <data name="HotkeyType_Metadata" xml:space="preserve">
-    <value>Metadati</value>
-  </data>
   <data name="Extensions_AddContextMenu_Redo" xml:space="preserve">
     <value>Ripeti</value>
   </data>
@@ -1255,9 +1252,6 @@ Vuoi scaricarla e installarla ora?</value>
   </data>
   <data name="ImageBeautifierBackgroundType_Transparent" xml:space="preserve">
     <value>Trasparente</value>
-  </data>
-  <data name="HotkeyType_StripMetadata" xml:space="preserve">
-    <value>Rimuovi metadati</value>
   </data>
   <data name="HotkeyType_QRCodeScanRegion" xml:space="preserve">
     <value>QR code (Scan area)</value>

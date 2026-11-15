@@ -594,9 +594,6 @@
   <data name="tsmiHashChecker.Text" xml:space="preserve">
     <value>Comprobador de hash...</value>
   </data>
-  <data name="tsmiMetadata.Text" xml:space="preserve">
-    <value>Metadatos...</value>
-  </data>
   <data name="tsmiClipboardViewer.Text" xml:space="preserve">
     <value>Visor del portapapeles...</value>
   </data>
@@ -743,9 +740,6 @@
   </data>
   <data name="tsmiTrayHashChecker.Text" xml:space="preserve">
     <value>Comprobador de hash...</value>
-  </data>
-  <data name="tsmiTrayMetadata.Text" xml:space="preserve">
-    <value>Metadatos...</value>
   </data>
   <data name="tsmiTrayClipboardViewer.Text" xml:space="preserve">
     <value>Visor del portapapeles...</value>

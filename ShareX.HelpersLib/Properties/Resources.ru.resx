@@ -1241,9 +1241,6 @@
   <data name="ImageBeautifierBackgroundType_Transparent" xml:space="preserve">
     <value>Прозрачность</value>
   </data>
-  <data name="HotkeyType_Metadata" xml:space="preserve">
-    <value>Метаданные</value>
-  </data>
   <data name="HotkeyType_StopAutoCapture" xml:space="preserve">
     <value>Остановить автозахват</value>
   </data>
@@ -1255,9 +1252,6 @@
   </data>
   <data name="UpdateChannel_Release" xml:space="preserve">
     <value>Выпуск</value>
-  </data>
-  <data name="HotkeyType_StripMetadata" xml:space="preserve">
-    <value>Удалить метаданные</value>
   </data>
   <data name="HotkeyType_QRCodeScanRegion" xml:space="preserve">
     <value>QR-код (сканировать область)</value>

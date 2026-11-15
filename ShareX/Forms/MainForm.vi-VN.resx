@@ -735,9 +735,6 @@
   <data name="tsmiHashChecker.Text" xml:space="preserve">
     <value>Trình kiểm tra hash...</value>
   </data>
-  <data name="tsmiMetadata.Text" xml:space="preserve">
-    <value>Siêu dữ liệu...</value>
-  </data>
   <data name="tsbDestinationSettings.Text" xml:space="preserve">
     <value>Cài đặt đích...</value>
   </data>
@@ -764,9 +761,6 @@
   </data>
   <data name="tsmiTrayHashChecker.Text" xml:space="preserve">
     <value>Trình kiểm tra hash...</value>
-  </data>
-  <data name="tsmiTrayMetadata.Text" xml:space="preserve">
-    <value>Siêu dữ liệu...</value>
   </data>
   <data name="cHotkey.HeaderText" xml:space="preserve">
     <value>Phím tắt</value>

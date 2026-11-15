@@ -687,9 +687,6 @@
   <data name="tsmiHashChecker.Text" xml:space="preserve">
     <value>해시 검사기...</value>
   </data>
-  <data name="tsmiMetadata.Text" xml:space="preserve">
-    <value>메타데이터...</value>
-  </data>
   <data name="tsmiClipboardViewer.Text" xml:space="preserve">
     <value>클립보드 뷰어...</value>
   </data>
@@ -752,9 +749,6 @@
   </data>
   <data name="tsmiTrayHashChecker.Text" xml:space="preserve">
     <value>해시 검사기...</value>
-  </data>
-  <data name="tsmiTrayMetadata.Text" xml:space="preserve">
-    <value>메타데이터...</value>
   </data>
   <data name="tsmiTrayClipboardViewer.Text" xml:space="preserve">
     <value>클립보드 뷰어...</value>

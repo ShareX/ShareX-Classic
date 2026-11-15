@@ -1811,11 +1811,6 @@ namespace ShareX
             TaskHelpers.OpenHashCheck();
         }
 
-        private void tsmiMetadata_Click(object sender, EventArgs e)
-        {
-            TaskHelpers.OpenMetadataWindow();
-        }
-
         private void tsmiIndexFolder_Click(object sender, EventArgs e)
         {
             TaskHelpers.OpenDirectoryIndexer();

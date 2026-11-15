@@ -749,9 +749,6 @@
   <data name="tsmiHashChecker.Text" xml:space="preserve">
     <value>بررسی‌کننده هش...</value>
   </data>
-  <data name="tsmiMetadata.Text" xml:space="preserve">
-    <value>فراداده...</value>
-  </data>
   <data name="tsmiClipboardViewer.Text" xml:space="preserve">
     <value>نمایشگر کلیپ‌بورد...</value>
   </data>
@@ -841,9 +838,6 @@
   </data>
   <data name="tsmiTrayHashChecker.Text" xml:space="preserve">
     <value>بررسی‌کننده هش...</value>
-  </data>
-  <data name="tsmiTrayMetadata.Text" xml:space="preserve">
-    <value>فراداده...</value>
   </data>
   <data name="tsmiTrayClipboardViewer.Text" xml:space="preserve">
     <value>نمایشگر کلیپ‌بورد...</value>

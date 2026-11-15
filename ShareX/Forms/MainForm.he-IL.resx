@@ -753,9 +753,6 @@
   <data name="tsmiAI.Text" xml:space="preserve">
     <value>נתח תמונה...</value>
   </data>
-  <data name="tsmiMetadata.Text" xml:space="preserve">
-    <value>מטא-נתונים...</value>
-  </data>
   <data name="tsbDestinationSettings.Text" xml:space="preserve">
     <value>הגדרות יעד...</value>
   </data>
@@ -770,8 +767,5 @@
   </data>
   <data name="tsmiTrayAI.Text" xml:space="preserve">
     <value>נתח תמונה...</value>
-  </data>
-  <data name="tsmiTrayMetadata.Text" xml:space="preserve">
-    <value>מטא-נתונים...</value>
   </data>
 </root>

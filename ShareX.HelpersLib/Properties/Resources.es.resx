@@ -523,9 +523,6 @@
   <data name="AfterCaptureTasks_CopyFileToClipboard" xml:space="preserve">
     <value>Copiar el archivo al portapapeles</value>
   </data>
-  <data name="HotkeyType_Metadata" xml:space="preserve">
-    <value>Metadatos</value>
-  </data>
   <data name="ShapeType_RegionFreehand" xml:space="preserve">
     <value>Freehand región</value>
   </data>
@@ -1255,9 +1252,6 @@ Would you like to descarga it?</value>
   </data>
   <data name="ImageBeautifierBackgroundType_Transparent" xml:space="preserve">
     <value>Transparente</value>
-  </data>
-  <data name="HotkeyType_StripMetadata" xml:space="preserve">
-    <value>Quitar metadatos</value>
   </data>
   <data name="HotkeyType_QRCodeScanRegion" xml:space="preserve">
     <value>QR code (Scan región)</value>

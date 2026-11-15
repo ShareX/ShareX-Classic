@@ -722,9 +722,6 @@
   <data name="AfterCaptureTasks_CopyFileToClipboard" xml:space="preserve">
     <value>فایل را به کلیپ بورد کپی کن</value>
   </data>
-  <data name="HotkeyType_Metadata" xml:space="preserve">
-    <value>فراداده</value>
-  </data>
   <data name="ShapeType_RegionFreehand" xml:space="preserve">
     <value>Freehand ناحیه</value>
   </data>
@@ -1255,9 +1252,6 @@
   </data>
   <data name="ImageBeautifierBackgroundType_Transparent" xml:space="preserve">
     <value>شفاف</value>
-  </data>
-  <data name="HotkeyType_StripMetadata" xml:space="preserve">
-    <value>حذف فراداده</value>
   </data>
   <data name="HotkeyType_QRCodeScanRegion" xml:space="preserve">
     <value>QR code (Scan ناحیه)</value>

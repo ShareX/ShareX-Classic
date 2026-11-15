@@ -1154,9 +1154,6 @@ Doriți să o descărcați și să o instalați?</value>
   <data name="HotkeyType_BorderlessWindow" xml:space="preserve">
     <value>Fereastră fără margini</value>
   </data>
-  <data name="HotkeyType_Metadata" xml:space="preserve">
-    <value>Metadate</value>
-  </data>
   <data name="HotkeyType_StopAutoCapture" xml:space="preserve">
     <value>Oprește auto captură</value>
   </data>
@@ -1255,9 +1252,6 @@ Doriți să o descărcați și să o instalați?</value>
   </data>
   <data name="ImageBeautifierBackgroundType_Transparent" xml:space="preserve">
     <value>Transparent</value>
-  </data>
-  <data name="HotkeyType_StripMetadata" xml:space="preserve">
-    <value>Elimină metadatele</value>
   </data>
   <data name="HotkeyType_QRCodeScanRegion" xml:space="preserve">
     <value>QR code (Scan regiune)</value>

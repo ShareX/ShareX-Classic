@@ -633,9 +633,6 @@
   <data name="tsmiHashChecker.Text" xml:space="preserve">
     <value>Hashcontrole...</value>
   </data>
-  <data name="tsmiMetadata.Text" xml:space="preserve">
-    <value>Metagegevens...</value>
-  </data>
   <data name="tsmiClipboardViewer.Text" xml:space="preserve">
     <value>Klembord weergaveer...</value>
   </data>
@@ -746,9 +743,6 @@
   </data>
   <data name="tsmiTrayHashChecker.Text" xml:space="preserve">
     <value>Hashcontrole...</value>
-  </data>
-  <data name="tsmiTrayMetadata.Text" xml:space="preserve">
-    <value>Metagegevens...</value>
   </data>
   <data name="tsmiTrayClipboardViewer.Text" xml:space="preserve">
     <value>Klembord weergaveer...</value>

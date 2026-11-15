@@ -585,9 +585,6 @@
   <data name="tsmiHashChecker.Text" xml:space="preserve">
     <value>Hash-ellenőrző...</value>
   </data>
-  <data name="tsmiMetadata.Text" xml:space="preserve">
-    <value>Metaadatok...</value>
-  </data>
   <data name="tsmiClipboardViewer.Text" xml:space="preserve">
     <value>Vágólap viewer...</value>
   </data>
@@ -740,9 +737,6 @@
   </data>
   <data name="tsmiTrayHashChecker.Text" xml:space="preserve">
     <value>Hash-ellenőrző...</value>
-  </data>
-  <data name="tsmiTrayMetadata.Text" xml:space="preserve">
-    <value>Metaadatok...</value>
   </data>
   <data name="tsmiTrayClipboardViewer.Text" xml:space="preserve">
     <value>Vágólap viewer...</value>

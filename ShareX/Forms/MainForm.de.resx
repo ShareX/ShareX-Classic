@@ -750,9 +750,6 @@
   <data name="tsmiOCR.Text" xml:space="preserve">
     <value>OCR...</value>
   </data>
-  <data name="tsmiMetadata.Text" xml:space="preserve">
-    <value>Metadaten...</value>
-  </data>
   <data name="tsbDestinationSettings.Text" xml:space="preserve">
     <value>Zieleinstellungen...</value>
   </data>
@@ -770,8 +767,5 @@
   </data>
   <data name="tsmiTrayOCR.Text" xml:space="preserve">
     <value>OCR...</value>
-  </data>
-  <data name="tsmiTrayMetadata.Text" xml:space="preserve">
-    <value>Metadaten...</value>
   </data>
 </root>

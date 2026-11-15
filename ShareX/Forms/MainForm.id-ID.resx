@@ -651,9 +651,6 @@
   <data name="tsmiHashChecker.Text" xml:space="preserve">
     <value>Pemeriksa hash...</value>
   </data>
-  <data name="tsmiMetadata.Text" xml:space="preserve">
-    <value>Metadata...</value>
-  </data>
   <data name="tsmiClipboardViewer.Text" xml:space="preserve">
     <value>Penampil clipboard...</value>
   </data>
@@ -749,9 +746,6 @@
   </data>
   <data name="tsmiTrayHashChecker.Text" xml:space="preserve">
     <value>Pemeriksa hash...</value>
-  </data>
-  <data name="tsmiTrayMetadata.Text" xml:space="preserve">
-    <value>Metadata...</value>
   </data>
   <data name="tsmiTrayClipboardViewer.Text" xml:space="preserve">
     <value>Penampil clipboard...</value>

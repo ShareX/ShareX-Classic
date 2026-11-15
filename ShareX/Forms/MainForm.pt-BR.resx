@@ -726,9 +726,6 @@
   <data name="tsmiHashChecker.Text" xml:space="preserve">
     <value>Verificador de hash...</value>
   </data>
-  <data name="tsmiMetadata.Text" xml:space="preserve">
-    <value>Metadados...</value>
-  </data>
   <data name="tsbDestinationSettings.Text" xml:space="preserve">
     <value>Configurações de destino...</value>
   </data>
@@ -764,9 +761,6 @@
   </data>
   <data name="tsmiTrayHashChecker.Text" xml:space="preserve">
     <value>Verificador de hash...</value>
-  </data>
-  <data name="tsmiTrayMetadata.Text" xml:space="preserve">
-    <value>Metadados...</value>
   </data>
   <data name="cHotkey.HeaderText" xml:space="preserve">
     <value>Tecla de atalho</value>

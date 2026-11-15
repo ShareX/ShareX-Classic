@@ -1214,9 +1214,6 @@ Soll sie heruntergeladen und installiert werden?</value>
   <data name="HotkeyType_PinToScreenCloseAll" xml:space="preserve">
     <value>An Bildschirm anheften (Alles schließen)</value>
   </data>
-  <data name="HotkeyType_Metadata" xml:space="preserve">
-    <value>Metadaten</value>
-  </data>
   <data name="PrivateBinExpiration_M5" xml:space="preserve">
     <value>5 Minuten</value>
   </data>
@@ -1279,9 +1276,6 @@ Soll sie heruntergeladen und installiert werden?</value>
   </data>
   <data name="ImageBeautifierBackgroundType_Transparent" xml:space="preserve">
     <value>Transparent</value>
-  </data>
-  <data name="HotkeyType_StripMetadata" xml:space="preserve">
-    <value>Metadaten entfernen</value>
   </data>
   <data name="HotkeyType_QRCodeScanRegion" xml:space="preserve">
     <value>QR-Code (Bereich scannen)</value>

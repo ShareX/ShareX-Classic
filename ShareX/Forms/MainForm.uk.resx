@@ -750,12 +750,6 @@
   <data name="tsbX.Text" xml:space="preserve">
     <value>Слідкуйте за @ShareX...</value>
   </data>
-  <data name="tsmiMetadata.Text" xml:space="preserve">
-    <value>Метадані...</value>
-  </data>
-  <data name="tsmiTrayMetadata.Text" xml:space="preserve">
-    <value>Метадані...</value>
-  </data>
   <data name="tsbDestinationSettings.Text" xml:space="preserve">
     <value>Налаштування призначень...</value>
   </data>

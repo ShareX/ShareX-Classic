@@ -756,9 +756,6 @@
   <data name="tsbCustomUploaderSettings.Text" xml:space="preserve">
     <value>自定义上传设置...</value>
   </data>
-  <data name="tsmiMetadata.Text" xml:space="preserve">
-    <value>元数据...</value>
-  </data>
   <data name="tsmiAI.Text" xml:space="preserve">
     <value>分析图片...</value>
   </data>
@@ -770,8 +767,5 @@
   </data>
   <data name="tsmiTrayAI.Text" xml:space="preserve">
     <value>分析图片...</value>
-  </data>
-  <data name="tsmiTrayMetadata.Text" xml:space="preserve">
-    <value>元数据...</value>
   </data>
 </root>

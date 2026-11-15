@@ -887,9 +887,6 @@
   <data name="AfterCaptureTasks_CopyFileToClipboard" xml:space="preserve">
     <value>파일을 클립보드에 복사하기</value>
   </data>
-  <data name="HotkeyType_Metadata" xml:space="preserve">
-    <value>메타데이터</value>
-  </data>
   <data name="Extensions_AddContextMenu_Redo" xml:space="preserve">
     <value>다시 실행</value>
   </data>
@@ -1255,9 +1252,6 @@
   </data>
   <data name="ImageBeautifierBackgroundType_Transparent" xml:space="preserve">
     <value>투명</value>
-  </data>
-  <data name="HotkeyType_StripMetadata" xml:space="preserve">
-    <value>메타데이터 제거</value>
   </data>
   <data name="HotkeyType_QRCodeScanRegion" xml:space="preserve">
     <value>QR code (Scan 영역)</value>

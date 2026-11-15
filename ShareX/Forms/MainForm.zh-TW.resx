@@ -752,9 +752,6 @@
   <data name="cDescription.HeaderText" xml:space="preserve">
     <value>描述</value>
   </data>
-  <data name="tsmiTrayMetadata.Text" xml:space="preserve">
-    <value>中繼資料...</value>
-  </data>
   <data name="tsmiTrayAI.Text" xml:space="preserve">
     <value>分析圖片...</value>
   </data>
@@ -766,9 +763,6 @@
   </data>
   <data name="tsbDestinationSettings.Text" xml:space="preserve">
     <value>目的地設定...</value>
-  </data>
-  <data name="tsmiMetadata.Text" xml:space="preserve">
-    <value>中繼資料...</value>
   </data>
   <data name="tsmiAI.Text" xml:space="preserve">
     <value>分析圖片...</value>

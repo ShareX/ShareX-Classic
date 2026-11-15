@@ -1241,12 +1241,6 @@
   <data name="ImageBeautifierBackgroundType_Transparent" xml:space="preserve">
     <value>Прозорість</value>
   </data>
-  <data name="HotkeyType_Metadata" xml:space="preserve">
-    <value>Метадані</value>
-  </data>
-  <data name="HotkeyType_StripMetadata" xml:space="preserve">
-    <value>Вилучити метадані</value>
-  </data>
   <data name="HotkeyType_QRCodeScanRegion" xml:space="preserve">
     <value>QR-код (сканувати область)</value>
   </data>

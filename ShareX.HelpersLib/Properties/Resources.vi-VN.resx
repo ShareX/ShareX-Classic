@@ -1196,9 +1196,6 @@ Bạn có muốn tải về và cài đặt không?</value>
   <data name="ShapeType_DrawingFreehandArrow" xml:space="preserve">
     <value>Mũi tên tự do</value>
   </data>
-  <data name="HotkeyType_Metadata" xml:space="preserve">
-    <value>Siêu dữ liệu</value>
-  </data>
   <data name="HotkeyType_StopAutoCapture" xml:space="preserve">
     <value>Dừng chụp tự động</value>
   </data>
@@ -1255,9 +1252,6 @@ Bạn có muốn tải về và cài đặt không?</value>
   </data>
   <data name="ImageBeautifierBackgroundType_Transparent" xml:space="preserve">
     <value>Trong suốt</value>
-  </data>
-  <data name="HotkeyType_StripMetadata" xml:space="preserve">
-    <value>Xóa siêu dữ liệu</value>
   </data>
   <data name="HotkeyType_QRCodeScanRegion" xml:space="preserve">
     <value>Mã QR (quét vùng)</value>

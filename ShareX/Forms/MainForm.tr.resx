@@ -732,9 +732,6 @@
   <data name="tsmiHashChecker.Text" xml:space="preserve">
     <value>Dosya denetleyici...</value>
   </data>
-  <data name="tsmiMetadata.Text" xml:space="preserve">
-    <value>Metadata...</value>
-  </data>
   <data name="tsbDestinationSettings.Text" xml:space="preserve">
     <value>Hedef ayarları...</value>
   </data>
@@ -743,9 +740,6 @@
   </data>
   <data name="tsmiTrayImageBeautifier.Text" xml:space="preserve">
     <value>Resim güzelleştirici...</value>
-  </data>
-  <data name="tsmiTrayMetadata.Text" xml:space="preserve">
-    <value>Metadata...</value>
   </data>
   <data name="tsbCustomUploaderSettings.Text" xml:space="preserve">
     <value>Özel yükleyici ayarları...</value>

@@ -1199,9 +1199,6 @@ Czy chcesz ją pobrać i zainstalować?</value>
   <data name="AfterCaptureTasks_BeautifyImage" xml:space="preserve">
     <value>Upiększ obraz</value>
   </data>
-  <data name="HotkeyType_Metadata" xml:space="preserve">
-    <value>Metadane</value>
-  </data>
   <data name="HotkeyType_StopAutoCapture" xml:space="preserve">
     <value>Zatrzymaj automatyczne przechwytywanie</value>
   </data>
@@ -1255,9 +1252,6 @@ Czy chcesz ją pobrać i zainstalować?</value>
   </data>
   <data name="ImageBeautifierBackgroundType_Transparent" xml:space="preserve">
     <value>Przezroczysty</value>
-  </data>
-  <data name="HotkeyType_StripMetadata" xml:space="preserve">
-    <value>Usuń metadane</value>
   </data>
   <data name="HotkeyType_QRCodeScanRegion" xml:space="preserve">
     <value>Kod QR (skanuj region)</value>

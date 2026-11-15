@@ -1235,9 +1235,6 @@
   <data name="HotkeyType_PinToScreenCloseAll" xml:space="preserve">
     <value>釘選至螢幕 (關閉所有視窗)</value>
   </data>
-  <data name="HotkeyType_Metadata" xml:space="preserve">
-    <value>中繼資料</value>
-  </data>
   <data name="AfterCaptureTasks_CopyFolderPathToClipboard" xml:space="preserve">
     <value>複製資料夾路徑到剪貼簿</value>
   </data>
@@ -1297,9 +1294,6 @@
   </data>
   <data name="HotkeyType_QRCodeScanRegion" xml:space="preserve">
     <value>QR 碼（掃描區域）</value>
-  </data>
-  <data name="HotkeyType_StripMetadata" xml:space="preserve">
-    <value>移除中繼資料</value>
   </data>
   <data name="HotkeyType_AnalyzeImage" xml:space="preserve">
     <value>分析圖片</value>
