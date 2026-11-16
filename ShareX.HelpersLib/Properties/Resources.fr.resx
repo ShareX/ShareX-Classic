@@ -1211,9 +1211,6 @@ Voulez-vous la télécharger et l'installer ?</value>
   <data name="HotkeyType_CustomWindow" xml:space="preserve">
     <value>Capturer une fenêtre préconfigurée</value>
   </data>
-  <data name="UpdateChannel_Dev" xml:space="preserve">
-    <value>Développement</value>
-  </data>
   <data name="UpdateChannel_PreRelease" xml:space="preserve">
     <value>Préversion</value>
   </data>

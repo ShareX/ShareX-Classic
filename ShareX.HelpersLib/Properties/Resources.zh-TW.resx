@@ -1208,9 +1208,6 @@
   <data name="HotkeyType_CustomWindow" xml:space="preserve">
     <value>擷取預設的視窗</value>
   </data>
-  <data name="UpdateChannel_Dev" xml:space="preserve">
-    <value>開發版</value>
-  </data>
   <data name="UpdateChannel_PreRelease" xml:space="preserve">
     <value>預覽版</value>
   </data>

@@ -1211,9 +1211,6 @@ Would you like to descarga it?</value>
   <data name="HotkeyType_CustomWindow" xml:space="preserve">
     <value>Captura pre configured ventana</value>
   </data>
-  <data name="UpdateChannel_Dev" xml:space="preserve">
-    <value>Dev</value>
-  </data>
   <data name="UpdateChannel_PreRelease" xml:space="preserve">
     <value>Pre-release</value>
   </data>

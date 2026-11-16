@@ -1211,9 +1211,6 @@ Doriți să o descărcați și să o instalați?</value>
   <data name="HotkeyType_CustomWindow" xml:space="preserve">
     <value>Captură pre configured fereastră</value>
   </data>
-  <data name="UpdateChannel_Dev" xml:space="preserve">
-    <value>Dev</value>
-  </data>
   <data name="UpdateChannel_PreRelease" xml:space="preserve">
     <value>Pre-lansare</value>
   </data>

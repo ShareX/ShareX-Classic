@@ -3711,15 +3711,6 @@ namespace ShareX.HelpersLib.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Dev.
-        /// </summary>
-        internal static string UpdateChannel_Dev {
-            get {
-                return ResourceManager.GetString("UpdateChannel_Dev", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Pre-release.
         /// </summary>
         internal static string UpdateChannel_PreRelease {

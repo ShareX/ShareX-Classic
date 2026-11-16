@@ -1214,9 +1214,6 @@
   <data name="UpdateChannel_PreRelease" xml:space="preserve">
     <value>预览版</value>
   </data>
-  <data name="UpdateChannel_Dev" xml:space="preserve">
-    <value>开发版</value>
-  </data>
   <data name="UpdateChannel_Release" xml:space="preserve">
     <value>正式版</value>
   </data>

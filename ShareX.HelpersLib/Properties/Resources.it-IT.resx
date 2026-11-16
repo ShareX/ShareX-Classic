@@ -1211,9 +1211,6 @@ Vuoi scaricarla e installarla ora?</value>
   <data name="HotkeyType_CustomWindow" xml:space="preserve">
     <value>Acquisizione pre configured finestra</value>
   </data>
-  <data name="UpdateChannel_Dev" xml:space="preserve">
-    <value>Dev</value>
-  </data>
   <data name="UpdateChannel_PreRelease" xml:space="preserve">
     <value>Pre-release</value>
   </data>

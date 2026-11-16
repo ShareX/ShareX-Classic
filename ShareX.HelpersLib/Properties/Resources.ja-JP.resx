@@ -1202,9 +1202,6 @@
   <data name="HotkeyType_CustomWindow" xml:space="preserve">
     <value>事前に指定したウィンドウをキャプチャ</value>
   </data>
-  <data name="UpdateChannel_Dev" xml:space="preserve">
-    <value>開発版</value>
-  </data>
   <data name="UpdateChannel_PreRelease" xml:space="preserve">
     <value>準公開版</value>
   </data>

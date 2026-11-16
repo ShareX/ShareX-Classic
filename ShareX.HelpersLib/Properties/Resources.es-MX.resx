@@ -1211,9 +1211,6 @@
   <data name="HotkeyType_CustomWindow" xml:space="preserve">
     <value>Capture pre configured ventana</value>
   </data>
-  <data name="UpdateChannel_Dev" xml:space="preserve">
-    <value>Desarrollo</value>
-  </data>
   <data name="UpdateChannel_PreRelease" xml:space="preserve">
     <value>Versión preliminar</value>
   </data>

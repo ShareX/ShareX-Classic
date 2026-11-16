@@ -1211,9 +1211,6 @@
   <data name="HotkeyType_CustomWindow" xml:space="preserve">
     <value>캡처 pre configured 창</value>
   </data>
-  <data name="UpdateChannel_Dev" xml:space="preserve">
-    <value>개발</value>
-  </data>
   <data name="UpdateChannel_PreRelease" xml:space="preserve">
     <value>사전 릴리스</value>
   </data>

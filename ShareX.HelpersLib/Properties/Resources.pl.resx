@@ -1211,9 +1211,6 @@ Czy chcesz ją pobrać i zainstalować?</value>
   <data name="HotkeyType_CustomWindow" xml:space="preserve">
     <value>Capture pre configured okno</value>
   </data>
-  <data name="UpdateChannel_Dev" xml:space="preserve">
-    <value>Deweloperski</value>
-  </data>
   <data name="UpdateChannel_PreRelease" xml:space="preserve">
     <value>Wersja przedpremierowa</value>
   </data>

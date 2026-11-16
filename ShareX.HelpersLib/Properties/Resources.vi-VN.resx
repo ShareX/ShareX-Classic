@@ -1211,9 +1211,6 @@ Bạn có muốn tải về và cài đặt không?</value>
   <data name="HotkeyType_CustomWindow" xml:space="preserve">
     <value>Capture pre configured cửa sổ</value>
   </data>
-  <data name="UpdateChannel_Dev" xml:space="preserve">
-    <value>Phát triển</value>
-  </data>
   <data name="UpdateChannel_PreRelease" xml:space="preserve">
     <value>Bản phát hành trước</value>
   </data>

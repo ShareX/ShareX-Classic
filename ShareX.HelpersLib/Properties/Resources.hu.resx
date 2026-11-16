@@ -1210,9 +1210,6 @@ Would you like to letöltés it?</value>
   <data name="HotkeyType_CustomWindow" xml:space="preserve">
     <value>Rögzítés pre configured ablak</value>
   </data>
-  <data name="UpdateChannel_Dev" xml:space="preserve">
-    <value>Fejlesztői</value>
-  </data>
   <data name="UpdateChannel_PreRelease" xml:space="preserve">
     <value>Előzetes kiadás</value>
   </data>

@@ -1208,9 +1208,6 @@
   <data name="HotkeyType_CustomWindow" xml:space="preserve">
     <value>Önceden yapılandırılmış pencereyi yakala</value>
   </data>
-  <data name="UpdateChannel_Dev" xml:space="preserve">
-    <value>Dev</value>
-  </data>
   <data name="UpdateChannel_PreRelease" xml:space="preserve">
     <value>Ön sürüm</value>
   </data>

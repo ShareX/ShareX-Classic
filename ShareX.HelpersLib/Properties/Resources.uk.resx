@@ -1262,9 +1262,6 @@
   <data name="HotkeyType_StopAutoCapture" xml:space="preserve">
     <value>Зупинити автозахоплення</value>
   </data>
-  <data name="UpdateChannel_Dev" xml:space="preserve">
-    <value>Dev</value>
-  </data>
   <data name="UpdateChannel_PreRelease" xml:space="preserve">
     <value>Попередній випуск</value>
   </data>
