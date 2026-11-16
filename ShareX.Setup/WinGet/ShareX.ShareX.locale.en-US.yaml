@@ -6,13 +6,13 @@ PackageVersion: {PackageVersion}
 PackageLocale: en-US
 Publisher: ShareX Team
 PublisherUrl: https://getsharex.com
-PublisherSupportUrl: https://github.com/ShareX/ShareX/issues
+PublisherSupportUrl: https://github.com/ShareX/ShareX-Classic/issues
 PrivacyUrl: https://getsharex.com/privacy-policy
 Author: ShareX Team
 PackageName: ShareX
-PackageUrl: https://github.com/ShareX/ShareX
+PackageUrl: https://github.com/ShareX/ShareX-Classic
 License: GNU General Public License v3.0
-LicenseUrl: https://github.com/ShareX/ShareX/blob/master/LICENSE.txt
+LicenseUrl: https://github.com/ShareX/ShareX-Classic/blob/main/LICENSE.txt
 Copyright: Copyright (c) 2007-2026 ShareX Team
 ShortDescription: ShareX is a free and open-source screen capture and file sharing software.
 Description: |-
