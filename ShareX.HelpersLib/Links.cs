@@ -29,7 +29,7 @@ namespace ShareX.HelpersLib
     {
         public const string Website = "https://getsharex.com";
         public const string Callback = Website + "/callback/";
-        public const string Changelog = Website + "/changelog";
+        public const string Changelog = Website + "/changelog-classic";
         public const string Donate = Website + "/donate";
         public const string PrivacyPolicy = Website + "/privacy-policy";
         public const string ImageEffects = Website + "/image-effects";

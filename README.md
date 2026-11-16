@@ -16,7 +16,7 @@
 ## Links
 * Official website: https://getsharex.com
 * GitHub: https://github.com/ShareX/ShareX
-* Changelog: https://getsharex.com/changelog
+* Changelog: https://getsharex.com/changelog-classic
 * Privacy policy: https://getsharex.com/privacy-policy
 * Donate: https://getsharex.com/donate
 * Twitter: https://twitter.com/ShareX
