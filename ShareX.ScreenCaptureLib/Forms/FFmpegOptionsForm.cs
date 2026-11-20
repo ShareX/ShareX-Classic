@@ -286,7 +286,7 @@ namespace ShareX.ScreenCaptureLib
 
         private async void buttonFFmpegBrowse_Click(object sender, EventArgs e)
         {
-            if (FileHelpers.BrowseFile(Resources.FFmpegOptionsForm_buttonFFmpegBrowse_Click_Browse_for_ffmpeg_exe, txtFFmpegPath, Environment.GetFolderPath(Environment.SpecialFolder.ProgramFiles), true))
+            if (FileHelpers.BrowseFile(Resources.FFmpegOptionsForm_buttonFFmpegBrowse_Click_Browse_for_ffmpeg_exe, txtFFmpegPath, Environment.GetFolderPath(Environment.SpecialFolder.ProgramFiles), true, "FFmpeg (*.exe)|*.exe"))
             {
                 await RefreshSourcesAsync();
             }
