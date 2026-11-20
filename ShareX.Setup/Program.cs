@@ -45,8 +45,8 @@ namespace ShareX.Setup
             CreateMicrosoftStoreFolder = 1 << 4,
             CreateMicrosoftStoreDebugFolder = 1 << 5,
             CompileAppx = 1 << 6,
-            CreateChecksumFile = 1 << 8,
-            OpenOutputDirectory = 1 << 9,
+            CreateChecksumFile = 1 << 7,
+            OpenOutputDirectory = 1 << 8,
 
             Release = CreateSetup | CreatePortable | OpenOutputDirectory,
             Debug = CreateDebug | OpenOutputDirectory,
