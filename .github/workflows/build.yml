@@ -280,7 +280,6 @@ jobs:
       contents: write
 
     env:
-      REPO_DEV_BUILDS: ${{ github.repository_owner }}/DevBuilds
       RELEASE_BODY_PATH: RELEASE_BODY.md
       APP_VERSION: ${{ needs.build.outputs.APP_VERSION }}
 
@@ -384,8 +383,7 @@ jobs:
       - name: Release (Dev)
         env:
           CUSTOM_GITHUB_TOKEN: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
-        # Dev build uploads are temporarily disabled. Remove "false &&" to enable them again.
-        if: false && env.CUSTOM_GITHUB_TOKEN != '' && env.REPO_DEV_BUILDS != '' && github.ref == 'refs/heads/develop'
+        if: env.CUSTOM_GITHUB_TOKEN != '' && env.REPO_DEV_BUILDS != '' && github.ref == 'refs/heads/develop'
         uses: softprops/action-gh-release@v3
         with:
           repository: ${{ env.REPO_DEV_BUILDS }}
