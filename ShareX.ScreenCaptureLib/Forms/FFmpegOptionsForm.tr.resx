@@ -157,11 +157,8 @@ Kaliteyi arttırmak dosya boyutunu arttırır.</value>
 Yavaş ön ayar = Yavaş kodlama fakat düşük dosya boyutu.
 Gerçek zamanlı kodlama (ekran kaydetme gibi) için ön ayar olabildiğince hızlı olmalıdır.</value>
   </data>
-  <data name="lblHelperDevices.Text" xml:space="preserve">
-    <value>"screen-capture-recorder" ve "virtual-audio-capturer" video/ses kaynaklarını yükler.</value>
-  </data>
-  <data name="btnInstallHelperDevices.Text" xml:space="preserve">
-    <value>Kayıt cihazlarını yükle...</value>
+  <data name="btnDownloadRecorderDevices.Text" xml:space="preserve">
+    <value>Kayıt cihazlarını indir...</value>
   </data>
   <data name="cbGIFStatsMode.ToolTip" xml:space="preserve">
     <value>Varsayılan full.</value>

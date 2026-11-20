@@ -332,7 +332,7 @@ A higher value means bad quality, but a low file size.</value>
     <value>$this</value>
   </data>
   <data name="&gt;&gt;cbVideoCodec.ZOrder" xml:space="preserve">
-    <value>13</value>
+    <value>11</value>
   </data>
   <data name="btnFFmpegBrowse.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -360,7 +360,7 @@ A higher value means bad quality, but a low file size.</value>
     <value>$this</value>
   </data>
   <data name="&gt;&gt;btnFFmpegBrowse.ZOrder" xml:space="preserve">
-    <value>16</value>
+    <value>14</value>
   </data>
   <data name="txtFFmpegPath.Location" type="System.Drawing.Point, System.Drawing">
     <value>16, 32</value>
@@ -381,7 +381,7 @@ A higher value means bad quality, but a low file size.</value>
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtFFmpegPath.ZOrder" xml:space="preserve">
-    <value>19</value>
+    <value>17</value>
   </data>
   <data name="cbCustomCommands.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -483,7 +483,7 @@ A higher value means bad quality, but a low file size.</value>
     <value>$this</value>
   </data>
   <data name="&gt;&gt;cbVideoSource.ZOrder" xml:space="preserve">
-    <value>15</value>
+    <value>13</value>
   </data>
   <data name="lblVideoSource.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -513,7 +513,7 @@ A higher value means bad quality, but a low file size.</value>
     <value>$this</value>
   </data>
   <data name="&gt;&gt;lblVideoSource.ZOrder" xml:space="preserve">
-    <value>17</value>
+    <value>15</value>
   </data>
   <data name="cbAudioSource.Location" type="System.Drawing.Point, System.Drawing">
     <value>336, 80</value>
@@ -534,7 +534,7 @@ A higher value means bad quality, but a low file size.</value>
     <value>$this</value>
   </data>
   <data name="&gt;&gt;cbAudioSource.ZOrder" xml:space="preserve">
-    <value>18</value>
+    <value>16</value>
   </data>
   <data name="lblAudioSource.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -564,7 +564,7 @@ A higher value means bad quality, but a low file size.</value>
     <value>$this</value>
   </data>
   <data name="&gt;&gt;lblAudioSource.ZOrder" xml:space="preserve">
-    <value>20</value>
+    <value>18</value>
   </data>
   <data name="cbAudioCodec.Location" type="System.Drawing.Point, System.Drawing">
     <value>336, 160</value>
@@ -585,92 +585,34 @@ A higher value means bad quality, but a low file size.</value>
     <value>$this</value>
   </data>
   <data name="&gt;&gt;cbAudioCodec.ZOrder" xml:space="preserve">
-    <value>11</value>
-  </data>
-  <data name="btnHelperDevicesHelp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="btnHelperDevicesHelp.Location" type="System.Drawing.Point, System.Drawing">
-    <value>184, 112</value>
-  </data>
-  <data name="btnHelperDevicesHelp.Size" type="System.Drawing.Size, System.Drawing">
-    <value>24, 24</value>
-  </data>
-  <data name="btnHelperDevicesHelp.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
-  </data>
-  <data name="btnHelperDevicesHelp.Text" xml:space="preserve">
-    <value>?</value>
-    <comment>@Invariant</comment>
-  </data>
-  <data name="&gt;&gt;btnHelperDevicesHelp.Name" xml:space="preserve">
-    <value>btnHelperDevicesHelp</value>
-  </data>
-  <data name="&gt;&gt;btnHelperDevicesHelp.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnHelperDevicesHelp.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;btnHelperDevicesHelp.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
-  <data name="lblHelperDevices.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="lblHelperDevices.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="btnDownloadRecorderDevices.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="lblHelperDevices.Location" type="System.Drawing.Point, System.Drawing">
-    <value>216, 117</value>
-  </data>
-  <data name="lblHelperDevices.Size" type="System.Drawing.Size, System.Drawing">
-    <value>445, 15</value>
-  </data>
-  <data name="lblHelperDevices.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="lblHelperDevices.Text" xml:space="preserve">
-    <value>Installs "screen-capture-recorder" and "virtual-audio-capturer" video/audio source.</value>
-  </data>
-  <data name="&gt;&gt;lblHelperDevices.Name" xml:space="preserve">
-    <value>lblHelperDevices</value>
-  </data>
-  <data name="&gt;&gt;lblHelperDevices.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblHelperDevices.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;lblHelperDevices.ZOrder" xml:space="preserve">
-    <value>12</value>
-  </data>
-  <data name="btnInstallHelperDevices.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="btnInstallHelperDevices.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="btnDownloadRecorderDevices.Location" type="System.Drawing.Point, System.Drawing">
     <value>16, 112</value>
   </data>
-  <data name="btnInstallHelperDevices.Size" type="System.Drawing.Size, System.Drawing">
-    <value>160, 24</value>
+  <data name="btnDownloadRecorderDevices.Size" type="System.Drawing.Size, System.Drawing">
+    <value>232, 24</value>
   </data>
-  <data name="btnInstallHelperDevices.TabIndex" type="System.Int32, mscorlib">
+  <data name="btnDownloadRecorderDevices.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
   </data>
-  <data name="btnInstallHelperDevices.Text" xml:space="preserve">
-    <value>Install recorder devices...</value>
+  <data name="btnDownloadRecorderDevices.Text" xml:space="preserve">
+    <value>Download recorder devices...</value>
   </data>
-  <data name="&gt;&gt;btnInstallHelperDevices.Name" xml:space="preserve">
-    <value>btnInstallHelperDevices</value>
+  <data name="&gt;&gt;btnDownloadRecorderDevices.Name" xml:space="preserve">
+    <value>btnDownloadRecorderDevices</value>
   </data>
-  <data name="&gt;&gt;btnInstallHelperDevices.Type" xml:space="preserve">
+  <data name="&gt;&gt;btnDownloadRecorderDevices.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;btnInstallHelperDevices.Parent" xml:space="preserve">
+  <data name="&gt;&gt;btnDownloadRecorderDevices.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;btnInstallHelperDevices.ZOrder" xml:space="preserve">
-    <value>14</value>
+  <data name="&gt;&gt;btnDownloadRecorderDevices.ZOrder" xml:space="preserve">
+    <value>12</value>
   </data>
   <data name="lblCommandLineArgs.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>

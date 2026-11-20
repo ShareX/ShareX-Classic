@@ -49,9 +49,7 @@
             cbAudioSource = new System.Windows.Forms.ComboBox();
             lblAudioSource = new System.Windows.Forms.Label();
             cbAudioCodec = new System.Windows.Forms.ComboBox();
-            btnHelperDevicesHelp = new System.Windows.Forms.Button();
-            lblHelperDevices = new System.Windows.Forms.Label();
-            btnInstallHelperDevices = new System.Windows.Forms.Button();
+            btnDownloadRecorderDevices = new System.Windows.Forms.Button();
             lblCommandLineArgs = new System.Windows.Forms.Label();
             cbUseCustomFFmpegPath = new System.Windows.Forms.CheckBox();
             lblVideoEncoder = new System.Windows.Forms.Label();
@@ -284,24 +282,12 @@
             cbAudioCodec.Name = "cbAudioCodec";
             cbAudioCodec.SelectedIndexChanged += cbAudioCodec_SelectedIndexChanged;
             // 
-            // btnHelperDevicesHelp
+            // btnDownloadRecorderDevices
             // 
-            resources.ApplyResources(btnHelperDevicesHelp, "btnHelperDevicesHelp");
-            btnHelperDevicesHelp.Name = "btnHelperDevicesHelp";
-            btnHelperDevicesHelp.UseVisualStyleBackColor = true;
-            btnHelperDevicesHelp.Click += btnHelperDevicesHelp_Click;
-            // 
-            // lblHelperDevices
-            // 
-            resources.ApplyResources(lblHelperDevices, "lblHelperDevices");
-            lblHelperDevices.Name = "lblHelperDevices";
-            // 
-            // btnInstallHelperDevices
-            // 
-            resources.ApplyResources(btnInstallHelperDevices, "btnInstallHelperDevices");
-            btnInstallHelperDevices.Name = "btnInstallHelperDevices";
-            btnInstallHelperDevices.UseVisualStyleBackColor = true;
-            btnInstallHelperDevices.Click += btnInstallHelperDevices_Click;
+            resources.ApplyResources(btnDownloadRecorderDevices, "btnDownloadRecorderDevices");
+            btnDownloadRecorderDevices.Name = "btnDownloadRecorderDevices";
+            btnDownloadRecorderDevices.UseVisualStyleBackColor = true;
+            btnDownloadRecorderDevices.Click += btnDownloadRecorderDevices_Click;
             // 
             // lblCommandLineArgs
             // 
@@ -735,11 +721,9 @@
             Controls.Add(txtCommandLinePreview);
             Controls.Add(txtUserArgs);
             Controls.Add(lblCommandLineArgs);
-            Controls.Add(btnHelperDevicesHelp);
             Controls.Add(cbAudioCodec);
-            Controls.Add(lblHelperDevices);
             Controls.Add(cbVideoCodec);
-            Controls.Add(btnInstallHelperDevices);
+            Controls.Add(btnDownloadRecorderDevices);
             Controls.Add(cbVideoSource);
             Controls.Add(btnFFmpegBrowse);
             Controls.Add(lblVideoSource);
@@ -829,9 +813,7 @@
         private System.Windows.Forms.Label lblGIFDither;
         private System.Windows.Forms.ComboBox cbGIFStatsMode;
         private System.Windows.Forms.Label lblGIFStatsMode;
-        private System.Windows.Forms.Button btnHelperDevicesHelp;
-        private System.Windows.Forms.Label lblHelperDevices;
-        private System.Windows.Forms.Button btnInstallHelperDevices;
+        private System.Windows.Forms.Button btnDownloadRecorderDevices;
         private System.Windows.Forms.PictureBox pbx264PresetWarning;
         private System.Windows.Forms.TabPage tpNVENC;
         private System.Windows.Forms.ComboBox cbNVENCPreset;

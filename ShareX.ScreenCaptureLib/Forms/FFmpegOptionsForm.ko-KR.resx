@@ -154,11 +154,8 @@
   <data name="lblNVENCBitrate.Text" xml:space="preserve">
     <value>비트레이트:</value>
   </data>
-  <data name="btnInstallHelperDevices.Text" xml:space="preserve">
-    <value>촬영 디바이스 설치하기</value>
-  </data>
-  <data name="lblHelperDevices.Text" xml:space="preserve">
-    <value>"screen-capture-recorder"와 "virtual-audio-capturer" 비디오/오디오 소스를 설치합니다.</value>
+  <data name="btnDownloadRecorderDevices.Text" xml:space="preserve">
+    <value>녹화 장치 다운로드...</value>
   </data>
   <data name="lblGIFStatsMode.Text" xml:space="preserve">
     <value>팔레트 모드:</value>

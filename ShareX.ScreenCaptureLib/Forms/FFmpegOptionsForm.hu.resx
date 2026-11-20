@@ -161,11 +161,8 @@ For real time encoding (e.g. képernyőfelvétel), the pvisszaállítás must be
   <data name="cbGIFStatsMode.ToolTip" xml:space="preserve">
     <value>Alapértelmezett is full.</value>
   </data>
-  <data name="lblHelperDevices.Text" xml:space="preserve">
-    <value>Installs "képernyő-rögzítés-recorder" and "virtual-hang-rögzítésr" videó/hang forrás.</value>
-  </data>
-  <data name="btnInstallHelperDevices.Text" xml:space="preserve">
-    <value>Rögzítőeszközök telepítése...</value>
+  <data name="btnDownloadRecorderDevices.Text" xml:space="preserve">
+    <value>Rögzítőeszközök letöltése...</value>
   </data>
   <data name="lblCommandLineArgs.Text" xml:space="preserve">
     <value>Hozzáadásitional parancs line argumentums:</value>

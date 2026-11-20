@@ -135,8 +135,8 @@
   <data name="lblXvidQscale.Text" xml:space="preserve">
     <value>קצב סיביות משתנה:</value>
   </data>
-  <data name="btnInstallHelperDevices.Text" xml:space="preserve">
-    <value>התקן מכשירי הקלטה...</value>
+  <data name="btnDownloadRecorderDevices.Text" xml:space="preserve">
+    <value>הורד מכשירי הקלטה...</value>
   </data>
   <data name="cbCustomCommands.Text" xml:space="preserve">
     <value>השתמש בפקודות מותאמות אישית:</value>
@@ -172,9 +172,6 @@
   </data>
   <data name="lblGIFStatsMode.Text" xml:space="preserve">
     <value>מצב לוח צבעים:</value>
-  </data>
-  <data name="lblHelperDevices.Text" xml:space="preserve">
-    <value>מתקין מקור וידאו/אודיו "צילום-והקלטת-מסך" ו"לוכד-שמע-וירטואלי".</value>
   </data>
   <data name="lblMP3Quality.Text" xml:space="preserve">
     <value>איכות:</value>

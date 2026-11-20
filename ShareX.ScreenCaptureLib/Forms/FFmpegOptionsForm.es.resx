@@ -164,11 +164,8 @@ For real time encoding (e.g. grabación de pantalla), the prestablecer must be a
   <data name="cbGIFStatsMode.ToolTip" xml:space="preserve">
     <value>El valor predeterminado es full.</value>
   </data>
-  <data name="lblHelperDevices.Text" xml:space="preserve">
-    <value>Installs "pantalla-captura-recorder" and "virtual-audio-capturar" video/audio source.</value>
-  </data>
-  <data name="btnInstallHelperDevices.Text" xml:space="preserve">
-    <value>Instalar dispositivos de grabación...</value>
+  <data name="btnDownloadRecorderDevices.Text" xml:space="preserve">
+    <value>Descargar dispositivos de grabación...</value>
   </data>
   <data name="lblCommandLineArgs.Text" xml:space="preserve">
     <value>Añadiritional command line arguments:</value>

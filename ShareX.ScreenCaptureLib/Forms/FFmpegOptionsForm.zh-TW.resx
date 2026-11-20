@@ -153,11 +153,8 @@
   <data name="lblGIFStatsMode.Text" xml:space="preserve">
     <value>調色盤模式：</value>
   </data>
-  <data name="lblHelperDevices.Text" xml:space="preserve">
-    <value>將會安裝「螢幕擷取器」和「虛擬音訊擷取器」視訊/音訊源。</value>
-  </data>
-  <data name="btnInstallHelperDevices.Text" xml:space="preserve">
-    <value>安裝錄製裝置...</value>
+  <data name="btnDownloadRecorderDevices.Text" xml:space="preserve">
+    <value>下載錄製裝置...</value>
   </data>
   <data name="cbx264Preset.ToolTip" xml:space="preserve">
     <value>較快的預設 = 編碼時間較快但檔案較大。

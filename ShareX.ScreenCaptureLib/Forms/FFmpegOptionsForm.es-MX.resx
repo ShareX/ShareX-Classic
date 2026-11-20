@@ -120,8 +120,8 @@
   <data name="$this.Text" xml:space="preserve">
     <value>ShareX - Opciones de grabación de pantalla</value>
   </data>
-  <data name="btnInstallHelperDevices.Text" xml:space="preserve">
-    <value>Instalar dispositivos de grabación</value>
+  <data name="btnDownloadRecorderDevices.Text" xml:space="preserve">
+    <value>Descargar dispositivos de grabación...</value>
   </data>
   <data name="cbCustomCommands.Text" xml:space="preserve">
     <value>Usar comandos personalizados</value>
@@ -145,9 +145,6 @@ El preajuste debe ser el más rápido para codificación en tiempo real (ej. gra
   </data>
   <data name="lblGIFStatsMode.Text" xml:space="preserve">
     <value>Modo de paleta:</value>
-  </data>
-  <data name="lblHelperDevices.Text" xml:space="preserve">
-    <value>Instala fuentes de audio y video "screen-capture-recorder" y "virtual-audio-capturer".</value>
   </data>
   <data name="lblMP3Quality.Text" xml:space="preserve">
     <value>Calidad:</value>

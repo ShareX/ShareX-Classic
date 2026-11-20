@@ -187,11 +187,8 @@
   <data name="lblAudioSource.Text" xml:space="preserve">
     <value>Джерело звуку:</value>
   </data>
-  <data name="lblHelperDevices.Text" xml:space="preserve">
-    <value>Встановлює джерела відео/аудіо «screen-capture-recorder» і «virtual-audio-capturer».</value>
-  </data>
-  <data name="btnInstallHelperDevices.Text" xml:space="preserve">
-    <value>Встановити пристрої запису...</value>
+  <data name="btnDownloadRecorderDevices.Text" xml:space="preserve">
+    <value>Завантажити пристрої запису...</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>ShareX — Налаштування запису екрану</value>

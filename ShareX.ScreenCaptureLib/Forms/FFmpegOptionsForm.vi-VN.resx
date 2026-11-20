@@ -154,8 +154,8 @@ Giá trị cao hơn cho kết quả tệ hơn nhưng kích thước tệp sẽ n
   <data name="lblVP8Bitrate.Text" xml:space="preserve">
     <value>Biến bitrate:</value>
   </data>
-  <data name="btnInstallHelperDevices.Text" xml:space="preserve">
-    <value>Cài đặt thiết bị ghi</value>
+  <data name="btnDownloadRecorderDevices.Text" xml:space="preserve">
+    <value>Tải xuống thiết bị ghi...</value>
   </data>
   <data name="cbx264Preset.ToolTip" xml:space="preserve">
     <value>Bộ thiết lập nhanh hơn = Nén nhanh hơn nhưng kích thước tệp lớn hơn.
@@ -170,9 +170,6 @@ Khi nén ở thời gian thực (vd: Ghi lại màn hình), bộ thiết lập c
   </data>
   <data name="lblGIFStatsMode.Text" xml:space="preserve">
     <value>Chế độ bảng:</value>
-  </data>
-  <data name="lblHelperDevices.Text" xml:space="preserve">
-    <value>Cài đặt "screen-capture-recorder" và "virtual-audio-capturer" cho nguồn video/audio.</value>
   </data>
   <data name="lblNVENCBitrate.Text" xml:space="preserve">
     <value>Bitrate:</value>

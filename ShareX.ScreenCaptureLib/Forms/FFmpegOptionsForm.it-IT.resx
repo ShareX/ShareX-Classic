@@ -150,11 +150,8 @@
   <data name="$this.Text" xml:space="preserve">
     <value>ShareX - Opzioni Registrazione Schermo</value>
   </data>
-  <data name="btnInstallHelperDevices.Text" xml:space="preserve">
-    <value>Installa Disp. Registr.</value>
-  </data>
-  <data name="lblHelperDevices.Text" xml:space="preserve">
-    <value>Installa le sorgenti video/audio "screen-capture-recorder" e "virtual-audio-capturer".</value>
+  <data name="btnDownloadRecorderDevices.Text" xml:space="preserve">
+    <value>Scarica dispositivi di registrazione...</value>
   </data>
   <data name="cbGIFStatsMode.ToolTip" xml:space="preserve">
     <value>Predefinito: "Full"</value>

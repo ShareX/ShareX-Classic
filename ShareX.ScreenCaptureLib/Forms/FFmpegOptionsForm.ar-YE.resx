@@ -223,10 +223,7 @@
     <value>معامل المعدل الثابت (CRF): يمكن أن تكون القيمة بين 0 و51، حيث 0 تعني عدم الخسارة في الجودة - خام، و30 هو معدل افتراضي، و51 هو أسوأ معدل ممكن.
 تعني القيمة الأعلى جودة أقل، ولكن حجم الملف أصغر.</value>
   </data>
-  <data name="btnInstallHelperDevices.Text" xml:space="preserve">
-    <value>تثبت جهاز تسجيل...</value>
-  </data>
-  <data name="lblHelperDevices.Text" xml:space="preserve">
-    <value>تثبيت "screen-capture-recorder" و مصدر الفيديو والصوت "virtual-audio-capturer" .</value>
+  <data name="btnDownloadRecorderDevices.Text" xml:space="preserve">
+    <value>تنزيل أجهزة التسجيل...</value>
   </data>
 </root>

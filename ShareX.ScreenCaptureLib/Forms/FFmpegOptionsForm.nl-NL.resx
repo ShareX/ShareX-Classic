@@ -143,8 +143,8 @@ Het bereik is exponentieel, dus de CRF met 6 verhogen halveert ongeveer de bitra
 Een veelgebruikte methode is om de hoogste CRF waarde te kiezen die nog een acceptabele kwaliteit genereert.
 Als het resultaat er goed uitziet, probeer een hogere waarde, is het slechter, probeer een lagere waarde.</value>
   </data>
-  <data name="btnInstallHelperDevices.Text" xml:space="preserve">
-    <value>Opnametoestellen installeren</value>
+  <data name="btnDownloadRecorderDevices.Text" xml:space="preserve">
+    <value>Opnameapparaten downloaden...</value>
   </data>
   <data name="cbGIFDither.ToolTip" xml:space="preserve">
     <value>bayer: 8x8 geordende bayer dithering (deterministisch)
@@ -171,9 +171,6 @@ Gelijkaardig kan er voor een constante kwaliteitsencoding een tragere preset gek
   </data>
   <data name="lblGIFStatsMode.Text" xml:space="preserve">
     <value>Palette stats modus:</value>
-  </data>
-  <data name="lblHelperDevices.Text" xml:space="preserve">
-    <value>Installeert "screen-capture-recorder" en "virtual-audio-capturer" video/audio bronnen.</value>
   </data>
   <data name="lblVP8Bitrate.Text" xml:space="preserve">
     <value>Variabele bitrate:</value>

@@ -160,11 +160,8 @@ Pentru codificarea în timp real (de exemplu, înregistrarea ecranului), preseta
     <value>Pentru codificarea în timp real, cum ar fi înregistrarea ecranului, se recomandă selectarea unei presetări rapide.
 În caz contrar, nu poate ține pasul cu înregistrarea și se vor produce multe scăderi de cadre.</value>
   </data>
-  <data name="btnInstallHelperDevices.Text" xml:space="preserve">
-    <value>Instalare dispozitive de înregistrare</value>
-  </data>
-  <data name="lblHelperDevices.Text" xml:space="preserve">
-    <value>Instalează sursa video/audio "screen-capture-recorder" și "virtual-audio-capturer".</value>
+  <data name="btnDownloadRecorderDevices.Text" xml:space="preserve">
+    <value>Descărcare dispozitive de înregistrare...</value>
   </data>
   <data name="lblGIFStatsMode.Text" xml:space="preserve">
     <value>Mod paletă:</value>

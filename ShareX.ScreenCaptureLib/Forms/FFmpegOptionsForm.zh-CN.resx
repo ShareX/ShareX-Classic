@@ -154,11 +154,8 @@
   <data name="lblGIFStatsMode.Text" xml:space="preserve">
     <value>调色板模式：</value>
   </data>
-  <data name="lblHelperDevices.Text" xml:space="preserve">
-    <value>安装“屏幕捕捉器”和“虚拟音频捕捉器”视频/音频源。</value>
-  </data>
-  <data name="btnInstallHelperDevices.Text" xml:space="preserve">
-    <value>安装捕捉器...</value>
+  <data name="btnDownloadRecorderDevices.Text" xml:space="preserve">
+    <value>下载录制设备...</value>
   </data>
   <data name="cbx264Preset.ToolTip" xml:space="preserve">
     <value>较快的预设 = 编码速度较快，但是文件比较大。

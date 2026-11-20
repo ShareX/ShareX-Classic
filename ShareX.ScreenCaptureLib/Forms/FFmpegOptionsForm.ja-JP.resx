@@ -175,11 +175,8 @@
   <data name="lblAudioSource.Text" xml:space="preserve">
     <value>オーディオ入力:</value>
   </data>
-  <data name="lblHelperDevices.Text" xml:space="preserve">
-    <value>映像/オーディオ入力の screen-capture-recorder と virtual-audio-capturer をインストール</value>
-  </data>
-  <data name="btnInstallHelperDevices.Text" xml:space="preserve">
-    <value>録画デバイスをインストール...</value>
+  <data name="btnDownloadRecorderDevices.Text" xml:space="preserve">
+    <value>録画デバイスをダウンロード...</value>
   </data>
   <data name="lblCommandLineArgs.Text" xml:space="preserve">
     <value>追加したいコマンドライン引数:</value>

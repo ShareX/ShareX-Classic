@@ -45,15 +45,14 @@ namespace ShareX.Setup
             CreateMicrosoftStoreFolder = 1 << 4,
             CreateMicrosoftStoreDebugFolder = 1 << 5,
             CompileAppx = 1 << 6,
-            DownloadTools = 1 << 7,
             CreateChecksumFile = 1 << 8,
             OpenOutputDirectory = 1 << 9,
 
-            Release = CreateSetup | CreatePortable | DownloadTools | OpenOutputDirectory,
-            Debug = CreateDebug | DownloadTools | OpenOutputDirectory,
-            Steam = CreateSteamFolder | DownloadTools | OpenOutputDirectory,
-            MicrosoftStore = CreateMicrosoftStoreFolder | CompileAppx | DownloadTools | OpenOutputDirectory,
-            MicrosoftStoreDebug = CreateMicrosoftStoreDebugFolder | CompileAppx | DownloadTools | OpenOutputDirectory
+            Release = CreateSetup | CreatePortable | OpenOutputDirectory,
+            Debug = CreateDebug | OpenOutputDirectory,
+            Steam = CreateSteamFolder | OpenOutputDirectory,
+            MicrosoftStore = CreateMicrosoftStoreFolder | CompileAppx | OpenOutputDirectory,
+            MicrosoftStoreDebug = CreateMicrosoftStoreDebugFolder | CompileAppx | OpenOutputDirectory
         }
 
         private static SetupJobs Job { get; set; } = SetupJobs.Release;
@@ -89,12 +88,9 @@ namespace ShareX.Setup
         private static string SteamZipPath => Path.Combine(OutputDir, $"ShareX-{AppVersion}-Steam-{Platform}.zip");
         private static string MicrosoftStoreAppxPath => Path.Combine(OutputDir, $"ShareX-{AppVersion}-MicrosoftStore-{Platform}.appx");
         private static string MicrosoftStoreDebugAppxPath => Path.Combine(OutputDir, $"ShareX-{AppVersion}-MicrosoftStore-debug-{Platform}.appx");
-        private static string RecorderDevicesSetupPath => Path.Combine(OutputDir, $"recorder-devices-{RecorderDevicesVersion}-setup.exe");
         private static string MakeAppxPath => Path.Combine(WindowsKitsDir, "x64", "makeappx.exe");
 
         private const string InnoSetupCompilerPath = @"C:\Program Files (x86)\Inno Setup 6\ISCC.exe";
-        private const string RecorderDevicesVersion = "0.12.10";
-        private static string RecorderDevicesDownloadURL = $"https://github.com/ShareX/RecorderDevices/releases/download/v{RecorderDevicesVersion}/recorder-devices-{RecorderDevicesVersion}-setup.exe";
 
         private static void Main(string[] args)
         {
@@ -111,11 +107,6 @@ namespace ShareX.Setup
                 Console.WriteLine("Cleaning output directory: " + OutputDir);
 
                 Directory.Delete(OutputDir, true);
-            }
-
-            if (Job.HasFlag(SetupJobs.DownloadTools))
-            {
-                DownloadRecorderDevices();
             }
 
             if (Job.HasFlag(SetupJobs.CreateSetup))
@@ -370,14 +361,6 @@ namespace ShareX.Setup
 
             FileHelpers.CopyFiles(Path.Combine(ParentDir, "Licenses"), Path.Combine(destination, "Licenses"), "*.txt");
 
-            if (job != SetupJobs.CreateMicrosoftStoreFolder && job != SetupJobs.CreateMicrosoftStoreDebugFolder)
-            {
-                if (File.Exists(RecorderDevicesSetupPath))
-                {
-                    FileHelpers.CopyFiles(RecorderDevicesSetupPath, destination);
-                }
-            }
-
             FileHelpers.CopyFiles(Path.Combine(source, "ShareX_File_Icon.ico"), destination);
 
             foreach (string directory in Directory.GetDirectories(source))
@@ -426,18 +409,6 @@ namespace ShareX.Setup
 
             ZipManager.Compress(source, archivePath);
             CreateChecksumFile(archivePath);
-        }
-
-        private static void DownloadRecorderDevices()
-        {
-            if (!File.Exists(RecorderDevicesSetupPath))
-            {
-                string fileName = Path.GetFileName(RecorderDevicesDownloadURL);
-                string filePath = Path.Combine(OutputDir, fileName);
-
-                Console.WriteLine("Downloading: " + RecorderDevicesDownloadURL);
-                WebHelpers.DownloadFileAsync(RecorderDevicesDownloadURL, filePath).GetAwaiter().GetResult();
-            }
         }
 
         private static void CreateChecksumFile(string filePath)

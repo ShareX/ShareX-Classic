@@ -143,8 +143,8 @@ Der Bereich ist exponentiell, also wenn man den Wert um +6 erhöht entspricht da
 Normalerweise wählt man den höchsten CRF Wert, der noch akzeptable Ergebnisse erzielt.
 Wenn der Output gut aussieht, dann versuche einen höheren Wert und wenn es dann schlecht aussieht benutze wieder den niedrigeren Wert.</value>
   </data>
-  <data name="btnInstallHelperDevices.Text" xml:space="preserve">
-    <value>Aufnahmegeräte Installieren...</value>
+  <data name="btnDownloadRecorderDevices.Text" xml:space="preserve">
+    <value>Aufnahmegeräte herunterladen...</value>
   </data>
   <data name="cbGIFStatsMode.ToolTip" xml:space="preserve">
     <value>Standard ist "full".</value>
@@ -157,9 +157,6 @@ Wenn der Output gut aussieht, dann versuche einen höheren Wert und wenn es dann
   </data>
   <data name="lblGIFStatsMode.Text" xml:space="preserve">
     <value>Palette Modus:</value>
-  </data>
-  <data name="lblHelperDevices.Text" xml:space="preserve">
-    <value>Installiert die "screen-capture-recorder" und "virtual-audio-capturer" Video/Audio Quellen.</value>
   </data>
   <data name="lblVP8Bitrate.Text" xml:space="preserve">
     <value>Variable Bitrate:</value>

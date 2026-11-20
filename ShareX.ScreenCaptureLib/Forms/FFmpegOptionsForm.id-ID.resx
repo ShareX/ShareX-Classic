@@ -120,8 +120,8 @@
   <data name="lblVP8Bitrate.Text" xml:space="preserve">
     <value>Laju bit variabel:</value>
   </data>
-  <data name="btnInstallHelperDevices.Text" xml:space="preserve">
-    <value>Instal perangkat perekam</value>
+  <data name="btnDownloadRecorderDevices.Text" xml:space="preserve">
+    <value>Unduh perangkat perekam...</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>ShareX - Opsi Perekaman Layar</value>
@@ -131,9 +131,6 @@
   </data>
   <data name="lblNVENCBitrate.Text" xml:space="preserve">
     <value>Laju bit:</value>
-  </data>
-  <data name="lblHelperDevices.Text" xml:space="preserve">
-    <value>Instal sumber audio/video "perekam-gambar-layar" dan "perekam-audio-virtual"</value>
   </data>
   <data name="lblGIFStatsMode.Text" xml:space="preserve">
     <value>Mode palet:</value>

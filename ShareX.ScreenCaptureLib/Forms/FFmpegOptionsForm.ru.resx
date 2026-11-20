@@ -120,8 +120,8 @@
   <data name="$this.Text" xml:space="preserve">
     <value>ShareX - Настройки записи экрана</value>
   </data>
-  <data name="btnInstallHelperDevices.Text" xml:space="preserve">
-    <value>Установить устройства...</value>
+  <data name="btnDownloadRecorderDevices.Text" xml:space="preserve">
+    <value>Скачать устройства записи...</value>
   </data>
   <data name="cbCustomCommands.Text" xml:space="preserve">
     <value>Использовать команды:</value>
@@ -148,9 +148,6 @@
   </data>
   <data name="lblGIFStatsMode.Text" xml:space="preserve">
     <value>Режим палитры:</value>
-  </data>
-  <data name="lblHelperDevices.Text" xml:space="preserve">
-    <value>Установит источники видео/аудио "screen-capture-recorder" и "virtual-audio-capturer".</value>
   </data>
   <data name="lblMP3Quality.Text" xml:space="preserve">
     <value>Качество:</value>

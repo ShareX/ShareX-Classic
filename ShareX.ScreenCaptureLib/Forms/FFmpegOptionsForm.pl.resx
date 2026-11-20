@@ -126,8 +126,8 @@
   <data name="lblMP3Quality.Text" xml:space="preserve">
     <value>Jakość:</value>
   </data>
-  <data name="btnInstallHelperDevices.Text" xml:space="preserve">
-    <value>Zainstaluj urządzenia nagrywające...</value>
+  <data name="btnDownloadRecorderDevices.Text" xml:space="preserve">
+    <value>Pobierz urządzenia nagrywające...</value>
   </data>
   <data name="lblVorbisQuality.Text" xml:space="preserve">
     <value>Jakość:</value>
@@ -149,9 +149,6 @@
   </data>
   <data name="cbx264UseBitrate.Text" xml:space="preserve">
     <value>Użyj bitrate</value>
-  </data>
-  <data name="lblHelperDevices.Text" xml:space="preserve">
-    <value>Instaluje "screen-capture-recorder"i "virtual-audio-capturer" źródło wideo/audio.</value>
   </data>
   <data name="lblGIFStatsMode.Text" xml:space="preserve">
     <value>Tryb palety:</value>
