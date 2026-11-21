@@ -291,7 +291,6 @@ jobs:
           path: Output
 
       - name: Download artifact (Setup-ARM64)
-        if: github.ref == 'refs/heads/develop'
         uses: actions/download-artifact@v8
         with:
           name: Setup-ARM64
@@ -304,7 +303,6 @@ jobs:
           path: Output
 
       - name: Download artifact (Portable-ARM64)
-        if: github.ref == 'refs/heads/develop'
         uses: actions/download-artifact@v8
         with:
           name: Portable-ARM64
