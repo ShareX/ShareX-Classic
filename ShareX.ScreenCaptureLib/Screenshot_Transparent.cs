@@ -73,6 +73,8 @@ namespace ShareX.ScreenCaptureLib
 
                     using (Form form = new Form())
                     {
+                        // Form is shown with native ShowWindow, so the deferred reveal (used in dark mode) would keep it cloaked.
+                        form.FormRevealMode = FormRevealMode.Classic;
                         form.BackColor = Color.White;
                         form.FormBorderStyle = FormBorderStyle.None;
                         form.ShowInTaskbar = false;

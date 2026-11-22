@@ -65,6 +65,9 @@ namespace ShareX
 
         private NotificationForm()
         {
+            // Form is shown with native ShowWindow, so the deferred reveal (used in dark mode) would keep it cloaked.
+            FormRevealMode = FormRevealMode.Classic;
+
             InitializeComponent();
         }
 
